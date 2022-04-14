@@ -301,6 +301,38 @@ nav{
     right:6vw;
     top:70vw;
 }
+.icono-desplazamiento-ig-olimpicos{
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:90vw;
+    top:155vw;
+}
+.icono-desplazamiento-tw-olimpicos{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:55vw;
+    top:155vw;
+}
+.icono-desplazamiento-face-olimpicos{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:30vw;
+    top:155vw;
+}
+.icono-desplazamiento-wsp-olimpicos{
+    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:6vw;
+    top:155vw;
+}
 h1,p,H2{
     font-family:sans-serif;
     margin:35px auto;
