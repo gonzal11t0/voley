@@ -21,7 +21,7 @@ nav{
     padding:8px 15px;
 }
 .texto-inicio:hover{
-    border: 1px solid #FA1A1A;
+    /*border: 1px solid #FA1A1A;*/
     color: #FFFFFF;
 
 }
@@ -39,7 +39,7 @@ nav{
     text-decoration:none;
 }
 .menu-horizontal > li:hover{
-    background-color:#b86517;
+    background-color:#cf6808;
     text-decoration:underline;
     transition: 1s;
 }
@@ -86,7 +86,7 @@ nav{
 }
 .texto-quienes-somos{
     display:contents;
-    top:20vw;
+    top:25vw;
     padding:10px 10px 10px 15px;
     font-size:2vw;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -97,10 +97,11 @@ nav{
     color: rgb(222, 186, 119);
 }
 .texto-quienes-somos:hover{
+    position: absolute;
+    top:30vw;
     font-size:2.5vw;
     transition: 1s;
     padding:15px 15px 15px 20px;
-    box-shadow: 6px 6px 12px rgb(208, 130, 5);
 }
 .titulo-tabla{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -178,7 +179,7 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:95vw;
+    top:63vw;
 }
 .icono-desplazamiento-tw-contactos{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
@@ -186,7 +187,7 @@ nav{
     position:absolute;
     margin:25px;
     right:55vw;
-    top:95vw;
+    top:63vw;
 }
 .icono-desplazamiento-face-contactos{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -194,7 +195,7 @@ nav{
     position:absolute;
     margin:25px;
     right:30vw;
-    top:95vw;
+    top:63vw;
 }
 .icono-desplazamiento-wsp-contactos{
     box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
@@ -202,7 +203,7 @@ nav{
     position:absolute;
     margin:25px;
     right:6vw;
-    top:95vw;
+    top:63vw;
 }
 .icono-desplazamiento-ig-quienes-somos{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
