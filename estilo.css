@@ -147,7 +147,7 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:55vw;
+    top:49vw;
 }
 .icono-desplazamiento-tw{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
@@ -155,7 +155,7 @@ nav{
     position:absolute;
     margin:25px;
     right:55vw;
-    top:55vw;
+    top:49vw;
 }
 .icono-desplazamiento-face{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -163,7 +163,7 @@ nav{
     position:absolute;
     margin:25px;
     right:30vw;
-    top:55vw;
+    top:49vw;
 }
 .icono-desplazamiento-wsp{
     box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
@@ -171,7 +171,7 @@ nav{
     position:absolute;
     margin:25px;
     right:6vw;
-    top:55vw;
+    top:49vw;
 }
 .icono-desplazamiento-ig-contactos{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
@@ -396,6 +396,38 @@ nav{
     margin:25px;
     right:6vw;
     top:135vw;
+}
+.icono-desplazamiento-ig-naciones-grupo{
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:90vw;
+    top:170vw;
+}
+.icono-desplazamiento-tw-naciones-grupo{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:60vw;
+    top:170vw;
+}
+.icono-desplazamiento-face-naciones-grupo{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:30vw;
+    top:170vw;
+}
+.icono-desplazamiento-wsp-naciones-grupo{
+    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:6vw;
+    top:170vw;
 }
 h1,p,H2{
     font-family:sans-serif;
