@@ -307,15 +307,15 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:155vw;
+    top:110vw;
 }
 .icono-desplazamiento-tw-olimpicos{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
     border-radius:50px;
     position:absolute;
     margin:25px;
-    right:55vw;
-    top:155vw;
+    right:65vw;
+    top:110vw;
 }
 .icono-desplazamiento-face-olimpicos{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -323,7 +323,7 @@ nav{
     position:absolute;
     margin:25px;
     right:30vw;
-    top:155vw;
+    top:110vw;
 }
 .icono-desplazamiento-wsp-olimpicos{
     box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
@@ -331,7 +331,39 @@ nav{
     position:absolute;
     margin:25px;
     right:6vw;
-    top:155vw;
+    top:110vw;
+}
+.icono-desplazamiento-ig-olimpicos-f{
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:90vw;
+    top:122vw;
+}
+.icono-desplazamiento-tw-olimpicos-f{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:65vw;
+    top:122vw;
+}
+.icono-desplazamiento-face-olimpicos-f{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:30vw;
+    top:122vw;
+}
+.icono-desplazamiento-wsp-olimpicos-f{
+    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:6vw;
+    top:122vw;
 }
 .icono-desplazamiento-ig-campeonato-mundial{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
@@ -339,23 +371,23 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:238vw;
+    top:80vw;
 }
 .icono-desplazamiento-tw-campeonato-mundial{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
     border-radius:50px;
     position:absolute;
     margin:25px;
-    right:55vw;
-    top:238vw;
+    right:80vw;
+    top:80vw;
 }
 .icono-desplazamiento-face-campeonato-mundial{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
     border-radius:50px;
     position:absolute;
     margin:25px;
-    right:30vw;
-    top:238vw;
+    right:20vw;
+    top:80vw;
 }
 .icono-desplazamiento-wsp-campeonato-mundial{
     box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
@@ -363,7 +395,135 @@ nav{
     position:absolute;
     margin:25px;
     right:6vw;
-    top:238vw;
+    top:80vw;
+}
+.icono-desplazamiento-ig-campeonato-mundial-m{
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:90vw;
+    top:90vw;
+}
+.icono-desplazamiento-tw-campeonato-mundial-m{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:80vw;
+    top:90vw;
+}
+.icono-desplazamiento-face-campeonato-mundial-m{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:20vw;
+    top:90vw;
+}
+.icono-desplazamiento-wsp-campeonato-mundial-m{
+    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:6vw;
+    top:90vw;
+}
+.icono-desplazamiento-ig-campeonato-mundial-m{
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:90vw;
+    top:90vw;
+}
+.icono-desplazamiento-tw-campeonato-mundial-m{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:80vw;
+    top:90vw;
+}
+.icono-desplazamiento-face-campeonato-mundial-m{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:20vw;
+    top:90vw;
+}
+.icono-desplazamiento-wsp-campeonato-mundial-m{
+    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:6vw;
+    top:90vw;
+}
+.icono-desplazamiento-ig-campeonato-mundial-fixture-f{
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:90vw;
+    top:110vw;
+}
+.icono-desplazamiento-tw-campeonato-mundial-fixture-f{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:80vw;
+    top:110vw;
+}
+.icono-desplazamiento-face-campeonato-mundial-fixture-f{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:20vw;
+    top:110vw;
+}
+.icono-desplazamiento-wsp-campeonato-mundial-fixture-f{
+    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:6vw;
+    top:110vw;
+}
+.icono-desplazamiento-ig-campeonato-mundial-f{
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:90vw;
+    top:65vw;
+}
+.icono-desplazamiento-tw-campeonato-mundial-f{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:80vw;
+    top:65vw;
+}
+.icono-desplazamiento-face-campeonato-mundial-f{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:20vw;
+    top:65vw;
+}
+.icono-desplazamiento-wsp-campeonato-mundial-f{
+    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:6vw;
+    top:65vw;
 }
 .icono-desplazamiento-ig-panamericanos{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
@@ -371,15 +531,15 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:135vw;
+    top:100vw;
 }
 .icono-desplazamiento-tw-panamericanos{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
     border-radius:50px;
     position:absolute;
     margin:25px;
-    right:55vw;
-    top:135vw;
+    right:65vw;
+    top:100vw;
 }
 .icono-desplazamiento-face-panamericanos{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -387,7 +547,7 @@ nav{
     position:absolute;
     margin:25px;
     right:30vw;
-    top:135vw;
+    top:100vw;
 }
 .icono-desplazamiento-wsp-panamericanos{
     box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
@@ -395,7 +555,7 @@ nav{
     position:absolute;
     margin:25px;
     right:6vw;
-    top:135vw;
+    top:100vw;
 }
 .icono-desplazamiento-ig-naciones-grupo{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
@@ -428,6 +588,102 @@ nav{
     margin:25px;
     right:6vw;
     top:170vw;
+}
+.icono-desplazamiento-ig-naciones-fixture{
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:90vw;
+    top:70vw;
+}
+.icono-desplazamiento-tw-naciones-fixture{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:60vw;
+    top:70vw;
+}
+.icono-desplazamiento-face-naciones-fixture{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:30vw;
+    top:70vw;
+}
+.icono-desplazamiento-wsp-naciones-fixture{
+    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:6vw;
+    top:70vw;
+}
+.icono-desplazamiento-ig-copa-panamericana{
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:90vw;
+    top:152vw;
+}
+.icono-desplazamiento-tw-copa-panamericana{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:65vw;
+    top:152vw;
+}
+.icono-desplazamiento-face-copa-panamericana{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:30vw;
+    top:152vw;
+}
+.icono-desplazamiento-wsp-copa-panamericana{
+    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:6vw;
+    top:152vw;
+}
+.icono-desplazamiento-ig-copa-panamericana-play{
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:90vw;
+    top:70vw;
+}
+.icono-desplazamiento-tw-copa-panamericana-play{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:65vw;
+    top:70vw;
+}
+.icono-desplazamiento-face-copa-panamericana-play{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:30vw;
+    top:70vw;
+}
+.icono-desplazamiento-wsp-copa-panamericana-play{
+    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:6vw;
+    top:70vw;
 }
 h1,p,H2{
     font-family:sans-serif;
