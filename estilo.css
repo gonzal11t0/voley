@@ -179,14 +179,6 @@ nav{
     right:30vw;
     top:49vw;
 }
-.icono-desplazamiento-wsp{
-    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
-    border-radius:50px;
-    position:absolute;
-    margin:25px;
-    right:6vw;
-    top:49vw;
-}
 .icono-desplazamiento-ig-contactos{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
     border-radius:50px;
@@ -257,7 +249,7 @@ nav{
     position:fixed;
     margin:25px;
     right:90vw;
-    top:25vw;
+    top:28vw;
 }
 .icono-desplazamiento-tw-pos-aclav{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
@@ -273,15 +265,7 @@ nav{
     position:fixed;
     margin:25px;
     right:1vw;
-    top:25vw;
-}
-.icono-desplazamiento-wsp-pos-aclav{
-    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
-    border-radius:50px;
-    position:fixed;
-    margin:25px;
-    right:1vw;
-    top:38vw;
+    top:28vw;
 }
 .icono-desplazamiento-ig-fixture-aclav{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
@@ -305,14 +289,6 @@ nav{
     position:absolute;
     margin:25px;
     right:30vw;
-    top:70vw;
-}
-.icono-desplazamiento-wsp-fixture-aclav{
-    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
-    border-radius:50px;
-    position:absolute;
-    margin:25px;
-    right:6vw;
     top:70vw;
 }
 .icono-desplazamiento-ig-olimpicos{
