@@ -179,6 +179,30 @@ nav{
     right:30vw;
     top:49vw;
 }
+.icono-desplazamiento-ig-supercopa{
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:90vw;
+    top:56vw;
+}
+.icono-desplazamiento-tw-supercopa{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:60vw;
+    top:56vw;
+}
+.icono-desplazamiento-face-supercopa{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:20vw;
+    top:56vw;
+}
 .icono-desplazamiento-ig-contactos{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
     border-radius:50px;
@@ -244,28 +268,76 @@ nav{
     top:45vw;
 }
 .icono-desplazamiento-ig-pos-aclav{
+    position:absolute;
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
     border-radius:50px;
-    position:fixed;
     margin:25px;
     right:90vw;
-    top:28vw;
+    top:75vw;
 }
 .icono-desplazamiento-tw-pos-aclav{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
     border-radius:50px;
-    position:fixed;
+    position:absolute;
     margin:25px;
-    right:90vw;
-    top:38vw;
+    right:60vw;
+    top:75vw;
 }
 .icono-desplazamiento-face-pos-aclav{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
     border-radius:50px;
-    position:fixed;
+    position:absolute;
     margin:25px;
-    right:1vw;
-    top:28vw;
+    right:15vw;
+    top:75vw;
+}
+.icono-desplazamiento-ig-pos-lvarus{
+    position:absolute;
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    margin:25px;
+    right:90vw;
+    top:75vw;
+}
+.icono-desplazamiento-tw-pos-lvarus{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:60vw;
+    top:75vw;
+}
+.icono-desplazamiento-face-pos-lvarus{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:15vw;
+    top:75vw;
+}
+.icono-desplazamiento-ig-fixture-lvarus{
+    position:absolute;
+    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
+    border-radius:50px;
+    margin:25px;
+    right:90vw;
+    top:353vw;
+}
+.icono-desplazamiento-tw-fixture-lvarus{
+    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:60vw;
+    top:353vw;
+}
+.icono-desplazamiento-face-fixture-lvarus{
+    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
+    border-radius:50px;
+    position:absolute;
+    margin:25px;
+    right:15vw;
+    top:353vw;
 }
 .icono-desplazamiento-ig-fixture-aclav{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
@@ -273,23 +345,23 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:70vw;
+    top:115vw;
 }
 .icono-desplazamiento-tw-fixture-aclav{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
     border-radius:50px;
     position:absolute;
     margin:25px;
-    right:55vw;
-    top:70vw;
+    right:60vw;
+    top:115vw;
 }
 .icono-desplazamiento-face-fixture-aclav{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
     border-radius:50px;
     position:absolute;
     margin:25px;
-    right:30vw;
-    top:70vw;
+    right:20vw;
+    top:115vw;
 }
 .icono-desplazamiento-ig-olimpicos{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
@@ -856,7 +928,7 @@ table.tableizer-table {
 }
 .informacion-general-supercopa{
     position: absolute;
-    top:58vw;
+    top:62vw;
     height:8vw;
     width:99vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
