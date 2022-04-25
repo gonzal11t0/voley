@@ -808,9 +808,10 @@ table.tableizer-table {
 }
 .informacion-general{
     position: absolute;
-    top:55vw;
-    height:8vw;
-    width:99vw;
+    top:54vw;
+    height:6vw;
+    width:85vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -829,12 +830,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-aclav{
     position: absolute;
     top:81vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -853,12 +859,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-aclav:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-fixture-aclav{
     position: absolute;
     top:121vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:05vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -877,12 +888,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-fixture-aclav:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-posiciones-lvarus{
     position: absolute;
     top:81vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -901,12 +917,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-posiciones-lvarus:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-fixture-lvarus{
     position: absolute;
     top:359vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -925,12 +946,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-fixture-lvarus:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-supercopa{
     position: absolute;
     top:62vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -949,12 +975,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-supercopa:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-juegos-olimpicos{
     position: absolute;
     top:115vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -973,12 +1004,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-juegos-olimpicos:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-juegos-olimpicos-femenino{
     position: absolute;
     top:129vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -998,11 +1034,16 @@ table.tableizer-table {
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
 }
+.informacion-general-juegos-olimpicos-femenino:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
 .informacion-general-campeonato-mundial{
     position: absolute;
     top:87vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1022,11 +1063,16 @@ table.tableizer-table {
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
 }
+.informacion-general-campeonato-mundial:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
 .informacion-general-campeonato-mundial{
     position: absolute;
     top:87vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1045,12 +1091,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-campeonato-mundial:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-campeonato-mundial-femenino{
     position: absolute;
     top:71vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1069,12 +1120,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-campeonato-mundial-femenino:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-campeonato-mundial-fixture-masculino{
     position: absolute;
     top:96vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1093,12 +1149,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-campeonato-mundial-fixture-masculino:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-campeonato-mundial-fixture-femenino{
     position: absolute;
     top:116vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1117,12 +1178,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-campeonato-mundial-fixture-femenino:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-naciones-grupos{
     position: absolute;
     top:176vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1141,12 +1207,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-naciones-grupos:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-naciones-fixture{
     position: absolute;
     top:76vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1165,12 +1236,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-naciones-fixture:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-copa-panamericana{
     position: absolute;
     top:158vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1189,12 +1265,16 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}.informacion-general-copa-panamericana:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-copa-panamericana-playoff{
     position: absolute;
     top:76vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1213,12 +1293,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-copa-panamericana-playoff:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-juegos-panamericana{
     position: absolute;
     top:106vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1237,12 +1322,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-juegos-panamericana:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-juegos-panamericana-playoff{
     position: absolute;
     top:106vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1262,11 +1352,16 @@ table.tableizer-table {
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
 }
+.informacion-general-juegos-panamericana-playoff:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
 .informacion-general-quienes-somos{
     position: absolute;
-    top:41vw;
-    height:8vw;
-    width:99vw;
+    top:45vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1285,12 +1380,17 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-quienes-somos:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
 .informacion-general-contacto-clubes{
     position: absolute;
     top:68vw;
-    height:8vw;
-    width:99vw;
+    height:6vw;
+    width:90vw;
+    right:5vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
@@ -1309,4 +1409,8 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+}
+.informacion-general-contacto-clubes:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
 }
