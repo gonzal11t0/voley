@@ -788,16 +788,16 @@ table.tableizer-table {
 .informacion-general{
     position: absolute;
     top:54vw;
+    color: #007700;
     height:6vw;
-    width:85vw;
-    right:5vw;
+    width:100vw;
+    right:0vw;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:1vw; 
     font-weight:100; 
     text-align: center; 
     background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
     z-index: 2;
-    color: transparent;
     margin: 0 0 25px; 
     overflow: hidden; 
     padding: 20px; 
@@ -811,6 +811,64 @@ table.tableizer-table {
     border: 4px solid #f52004;
 }
 .informacion-general:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+.informacion-general-torneos-int-clubes{
+    position: absolute;
+    top:42.8vw;
+    color: #007700;
+    height:6vw;
+    width:100vw;
+    right:0vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+}
+.informacion-general-torneos-int-clubes:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+.informacion-general-Camp-Mundial-de-la-FIVB{
+    position: absolute;
+    top:95vw;
+    color: #007700;
+    height:6vw;
+    width:100vw;
+    right:0vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+}
+.informacion-general-Camp-Mundial-de-la-FIVB:hover{
     background: #aa4400;
     border: 6px solid #f58d04;
 }
@@ -1407,4 +1465,7 @@ table.tableizer-table {
     border: 8px solid #01360a;
     box-shadow: 03px 03px 03px 9px rgba(2, 168, 99, 0.7);
     
+}
+.page-item{
+    right:00vw;
 }
