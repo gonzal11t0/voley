@@ -788,7 +788,6 @@ table.tableizer-table {
 .informacion-general{
     position: absolute;
     top:54vw;
-    color: #007700;
     height:6vw;
     width:100vw;
     right:0vw;
@@ -808,7 +807,8 @@ table.tableizer-table {
     border-radius: 55px 5px 35px 0px; 
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
-    border: 4px solid #f52004;
+    border: 6px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
 }
 .informacion-general:hover{
     background: #aa4400;
@@ -816,7 +816,7 @@ table.tableizer-table {
 }
 .informacion-general-torneos-int-clubes{
     position: absolute;
-    top:42.8vw;
+    top:43vw;
     color: #007700;
     height:6vw;
     width:100vw;
@@ -838,6 +838,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
 }
 .informacion-general-torneos-int-clubes:hover{
     background: #aa4400;
@@ -867,6 +868,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
 }
 .informacion-general-Camp-Mundial-de-la-FIVB:hover{
     background: #aa4400;
@@ -896,6 +898,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-aclav:hover{
     background: #aa4400;
@@ -925,6 +928,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-fixture-aclav:hover{
     background: #aa4400;
@@ -954,6 +958,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-posiciones-lvarus:hover{
     background: #aa4400;
@@ -961,7 +966,7 @@ table.tableizer-table {
 }
 .informacion-general-fixture-lvarus{
     position: absolute;
-    top:365vw;
+    top:366vw;
     height:6vw;
     width:90vw;
     right:5vw;
@@ -983,6 +988,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-fixture-lvarus:hover{
     background: #aa4400;
@@ -1012,6 +1018,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-supercopa:hover{
     background: #aa4400;
@@ -1019,7 +1026,7 @@ table.tableizer-table {
 }
 .informacion-general-juegos-olimpicos{
     position: absolute;
-    top:115vw;
+    top:116vw;
     height:6vw;
     width:90vw;
     right:5vw;
@@ -1041,6 +1048,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-juegos-olimpicos:hover{
     background: #aa4400;
@@ -1070,6 +1078,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-juegos-olimpicos-femenino:hover{
     background: #aa4400;
@@ -1099,6 +1108,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-campeonato-mundial:hover{
     background: #aa4400;
@@ -1128,6 +1138,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-campeonato-mundial:hover{
     background: #aa4400;
@@ -1157,6 +1168,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-campeonato-mundial-femenino:hover{
     background: #aa4400;
@@ -1186,6 +1198,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-campeonato-mundial-fixture-masculino:hover{
     background: #aa4400;
@@ -1215,6 +1228,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-campeonato-mundial-fixture-femenino:hover{
     background: #aa4400;
@@ -1244,6 +1258,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-naciones-grupos:hover{
     background: #aa4400;
@@ -1273,6 +1288,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-naciones-fixture:hover{
     background: #aa4400;
@@ -1302,6 +1318,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }.informacion-general-copa-panamericana:hover{
     background: #aa4400;
     border: 6px solid #f58d04;
@@ -1330,6 +1347,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-copa-panamericana-playoff:hover{
     background: #aa4400;
@@ -1359,6 +1377,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-juegos-panamericana:hover{
     background: #aa4400;
@@ -1388,6 +1407,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
 }
 .informacion-general-juegos-panamericana-playoff:hover{
     background: #aa4400;
@@ -1417,6 +1437,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 9px 5px red
 }
 .informacion-general-quienes-somos:hover{
     background: #aa4400;
@@ -1424,7 +1445,7 @@ table.tableizer-table {
 }
 .informacion-general-contacto-clubes{
     position: absolute;
-    top:68vw;
+    top:69vw;
     height:6vw;
     width:90vw;
     right:5vw;
@@ -1446,6 +1467,7 @@ table.tableizer-table {
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 4px solid #f52004;
+    box-shadow:5px 5px 9px 5px red
 }
 .informacion-general-contacto-clubes:hover{
     background: #aa4400;
