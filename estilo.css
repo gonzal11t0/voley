@@ -846,7 +846,59 @@ table.tableizer-table {
 }
 .informacion-general-Camp-Mundial-de-la-FIVB{
     position: absolute;
-    top:95vw;
+    top:98vw;
+    color: #007700;
+    height:6vw;
+    width:100vw;
+    right:0vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
+}
+.informacion-general-Camp-Mundial-de-la-FIVB-f{
+    position: absolute;
+    top:108vw;
+    color: #007700;
+    height:6vw;
+    width:100vw;
+    right:0vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
+}
+.informacion-general-Camp-Mundial-de-la-FIVB-f-play-off{
+    position: absolute;
+    top:70vw;
     color: #007700;
     height:6vw;
     width:100vw;
@@ -874,6 +926,212 @@ table.tableizer-table {
     background: #aa4400;
     border: 6px solid #f58d04;
 }
+.informacion-general-liga-camp{
+    position: absolute;
+    top:105vw;
+    height:6vw;
+    width:100vw;
+    right:0vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
+}
+.informacion-general-liga-camp:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+.informacion-general-liga-camp-fixture-a-m{ 
+    position: absolute;
+    top:95vw;
+    height:6vw;
+    width:100vw;
+    right:0vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
+}
+.informacion-general-liga-camp-fixture-a-m:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+.informacion-general-liga-camp-fixture-b-m{
+    position: absolute;
+    top:95vw;
+    height:6vw;
+    width:100vw;
+    right:0vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
+}
+.informacion-general-liga-camp-fixture-b-m:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+.informacion-general-liga-camp-fixture-c-m{
+    position: absolute;
+    top:95vw;
+    height:6vw;
+    width:100vw;
+    right:0vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
+}
+.informacion-general-liga-camp-fixture-c-m:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+.informacion-general-liga-camp-fixture-d-m{
+    position: absolute;
+    top:95vw;
+    height:6vw;
+    width:100vw;
+    right:0vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
+}
+.informacion-general-liga-camp-fixture-d-m:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+.informacion-general-liga-camp-fixture-e-m{
+    position: absolute;
+    top:95vw;
+    height:6vw;
+    width:100vw;
+    right:0vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
+}
+
+.informacion-general-liga-camp-fixture-e-m:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+.informacion-general-liga-camp-play-off-m{
+    position: absolute;
+    top:98vw;
+    height:6vw;
+    width:100vw;
+    right:0vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:28px 28px 28px 28px red
+}
+
+.informacion-general-liga-camp-play-off-m:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+
 .informacion-general-aclav{
     position: absolute;
     top:85vw;
