@@ -5,23 +5,20 @@
 }
 body{
     background-color: rgba(30, 17, 17, 1);
-    
-    
 }
 nav{
     margin:auto;
     background-color:transparent;
-    font-size:19px;
+    font-size:18px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: #351515;
-    border:8px solid  #351515;
+    border:2px solid  #351515;
     backdrop-filter:blue(4px);
     flex-direction: column;
     align-items: flex-start;
     padding:8px 15px;
 }
 .texto-inicio:hover{
-    /*border: 1px solid #FA1A1A;*/
     color: #FFFFFF;
 
 }
@@ -48,13 +45,12 @@ nav{
     display:none;
     list-style:none;
     width:200px;
-    background-color: rgba(0, 0, 0,.5);
 }
 .menu-horizontal li:hover .menu-vertical{
     display:block;  
 }
 .menu-vertical li:hover{
-    background-color:rgba(188, 90, 188, 0.5);
+    background-color:rgba(131, 11, 131, 0.5);
     transition:1.5s;
     transform: translateX(5px);
 }
@@ -1847,6 +1843,100 @@ table.tableizer-table {
     background: #aa4400;
     border: 6px solid #f58d04;
 }
+.informacion-general-cat-inf{
+    position: absolute;
+    top:55vw;
+    height:6vw;
+    width:100vw;
+    right:00vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    color: transparent;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:5px 5px 9px 5px red
+}
+.informacion-general-cat-inf:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+.informacion-general-copa-pana-sub23-m{
+    position: absolute;
+    top:95vw;
+    height:6vw;
+    width:100vw;
+    right:00vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    color: transparent;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:5px 5px 9px 5px red
+}
+
+.informacion-general-copa-pana-sub23-m:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+.informacion-general-copa-pana-sub23-f{
+    position: absolute;
+    top:102vw;
+    height:6vw;
+    width:100vw;
+    right:00vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    color: transparent;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:5px 5px 9px 5px red
+}
+    
+
+.informacion-general-copa-pana-sub23-f:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
+
 #estilos-de-grupos{
     position: absolute;
     color: rgb(114, 97, 97);
