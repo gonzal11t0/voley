@@ -781,6 +781,40 @@ table.tableizer-table {
     color: #FFF;
     font-weight: bold;
 }
+#texto-info-general-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:1.2vw;
+    top:-1.5vw;
+}
+#texto-info-general-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    top:0vw;
+    font-size:1vw;
+    right:80vw;
+}
+#texto-info-general-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    right:43vw;
+    top:-1vw;
+    font-size:1.2vw;
+}
+#texto-info-general-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    right:12vw;
+    top:-1.5vw;
+    font-size:1.2vw;
+}
+#texto-info-general-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    right:2vw;
+    top:0vw;
+    font-size:1vw;
+}
 .informacion-general{
     position: absolute;
     top:54vw;
@@ -810,6 +844,45 @@ table.tableizer-table {
     background: #aa4400;
     border: 6px solid #f58d04;
 }
+#texto-info-general-aclav-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+
+#texto-info-general-aclav-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:75vw;
+}
+
+#texto-info-general-aclav-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:40vw;
+}
+
+#texto-info-general-aclav-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+
+#texto-info-general-aclav-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
+
 .informacion-general-aclav{
     position: absolute;
     top:85vw;
@@ -1989,4 +2062,42 @@ table.tableizer-table {
 }
 .page-item{
     right:00vw;
+}
+#paginacion-posiciones-aclav{
+    position:absolute;
+    top:80vw;
+    right:42vw;
+}
+
+
+
+
+
+.posicionamiento-nombredegrupo-1-posiciones-aclav{
+    top:35vw; 
+    right:67vw;
+}
+#posicionamiento-grupo-1-posiciones-aclav{
+    position: absolute;
+    top:40vw;
+    right:53vw;
+}
+.posicionamiento-nombredegrupo-2-posiciones-aclav{
+    top:35vw;
+    right:20vw;
+}
+#posicionamiento-grupo-2-posiciones-aclav{
+    position: absolute;
+    top:40vw;
+    right:05vw;
+}
+
+.posicionamiento-nombredegrupo-3-posiciones-aclav{
+    top:55vw; 
+    right:44vw;
+}
+#posicionamiento-grupo-3-posiciones-aclav{
+    position:absolute; 
+    top:60vw; 
+    right:30vw;
 }
