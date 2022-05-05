@@ -1,4 +1,5 @@
 @media only screen and (max-width:499px) {
+    /*index*/
     .menu-horizontal{
         font-size: 1.8vw;
         width:85vw;
@@ -54,69 +55,122 @@
         position:absolute;
         top:412vw;
     }
+    /*  posiciones aclav*/
+    .reglas-informacion{
+        font-size:2.5vw;
+    }
     .posicionamiento-nombredegrupo-1-posiciones-aclav{
-        top:45vw; 
+        top:110vw; 
         right:47vw;
     }
     #posicionamiento-grupo-1-posiciones-aclav{
         position: absolute;
-        top:55vw;
-        right:15vw;
+        top:120vw;
+        right:5vw;
+        width:90vw;
     }
     .posicionamiento-nombredegrupo-2-posiciones-aclav{
-        top:70vw;
+        top:140vw;
         right:47vw;
     }
     #posicionamiento-grupo-2-posiciones-aclav{
         position: absolute;
-        top:80vw;
-        right:15vw;
+        top:150vw;
+        right:5vw;
+        width:90vw;
     }
     .posicionamiento-nombredegrupo-3-posiciones-aclav{
-        top:95vw; 
+        top:170vw; 
         right:47vw;
     }
     #posicionamiento-grupo-3-posiciones-aclav{
         position:absolute; 
-        top:105vw; 
-        right:15vw;
+        top:180vw; 
+        right:5vw;
+        width:90vw;
+    }
+
+
+    .icono-desplazamiento-ig-pos-aclav{
+        position:absolute;
+        right:85vw;
+        top:232vw;
+        width:7vw;
+        height:7vw;
+        box-shadow: none;
+    }
+    .icono-desplazamiento-tw-pos-aclav{
+        position:absolute;
+        right:45vw;
+        top:232vw;
+        width:7vw;
+        height:7vw;
+        box-shadow: none;
+    }
+    .icono-desplazamiento-face-pos-aclav{
+        position:absolute;
+        right:10vw;
+        top:232vw;
+        width:7vw;
+        height:7vw;
+        box-shadow: none;
+    }
+    .pagination{
+        height:4vw;
+        width:27vw;
+    }
+    #paginacion-posiciones-aclav{
+        top:225vw;
+        right:35vw;
+        height:0.5vw;
+    }
+    .pagination-lg .page-item:first-child .page-link{
+        font-size:1.2vw;
+    }
+    .pagination-lg .page-item:last-child .page-link {
+        font-size:1.2vw;
+    }
+    .informacion-general-aclav{
+        top: 250vw;
+        border: 4px solid #f52004;
+        box-shadow:none
     }
     #texto-info-general-aclav-1{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
-        font-size:1.2vw;
-        top:-3vw;
+        font-size:1.7vw;
+        top:-5vw;
     }
     
     #texto-info-general-aclav-2{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
-        font-size:1vw;
+        font-size:1.5vw;
         top:-1vw;
-        right:75vw;
+        right:70vw;
     }
     
     #texto-info-general-aclav-3{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
-        font-size:1.2vw;
-        top:-3vw;
-        right:38vw;
+        font-size:1.7vw;
+        top:-5vw;
+        right:35vw;
     }
     
     #texto-info-general-aclav-4{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
-        font-size:1.2vw;
-        top:-3vw;
+        font-size:1.5vw;
+        top:-5vw;
         right:10vw
     }
     
     #texto-info-general-aclav-5{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
-        font-size:1vw;
-        right:1.5vw;
+        font-size:1.5vw;
+        right:5vw;
         top:-1vw;
     }
 }
