@@ -1,4 +1,7 @@
-@media only screen and (min-width:1000px) and (max-width:1500px) {
+/*@media only screen and (max-width:500px) {
+    .nav{
+        font-size:1vw;
+    }
     .informacion-general{
         top:70vw;
         box-shadow:2px 2px 2px 2px red;
@@ -7,7 +10,7 @@
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
         font-size:1.2vw;
-        top:-3vw;
+        top:-2.5vw;
     }
     #texto-info-general-2{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
@@ -20,14 +23,14 @@
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
         right:45vw;
-        top:-3vw;
+        top:-2.5vw;
         font-size:1.2vw;
     }
     #texto-info-general-4{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
         right:12vw;
-        top:-3vw;
+        top:-2.5vw;
         font-size:1.2vw;
     }
     #texto-info-general-5{
@@ -134,4 +137,4 @@
         right:1.5vw;
         top:-1vw;
     }
-}   
+}*/

@@ -20,7 +20,6 @@ nav{
 }
 .texto-inicio:hover{
     color: #FFFFFF;
-
 }
 .menu-horizontal{
     list-style:none;
@@ -817,7 +816,7 @@ table.tableizer-table {
 }
 .informacion-general{
     position: absolute;
-    top:54vw;
+    top:55vw;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -2074,7 +2073,7 @@ table.tableizer-table {
 
 
 .posicionamiento-nombredegrupo-1-posiciones-aclav{
-    top:35vw; 
+    top:25vw; 
     right:67vw;
 }
 #posicionamiento-grupo-1-posiciones-aclav{
