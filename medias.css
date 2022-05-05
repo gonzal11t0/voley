@@ -1,77 +1,59 @@
-/*@media only screen and (max-width:500px) {
-    .nav{
-        font-size:1vw;
+@media only screen and (max-width:499px) {
+    .menu-horizontal{
+        font-size: 1.8vw;
+        width:85vw;
     }
     .informacion-general{
-        top:70vw;
+        top:435vw;
         box-shadow:2px 2px 2px 2px red;
+        height:10vw;
     }
     #texto-info-general-1{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
-        font-size:1.2vw;
-        top:-2.5vw;
+        font-size:1.5vw;
+        top:-5vw;
     }
     #texto-info-general-2{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
-        top:-1vw;
-        font-size:1vw;
-        right:80vw;
+        top:-2vw;
+        font-size:1.2vw;
+        right:75vw;
     }
     #texto-info-general-3{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
         right:45vw;
-        top:-2.5vw;
-        font-size:1.2vw;
+        top:-5vw;
+        font-size:1.5vw;
     }
     #texto-info-general-4{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
         right:12vw;
-        top:-2.5vw;
-        font-size:1.2vw;
+        top:-5vw;
+        font-size:1.5vw;
     }
     #texto-info-general-5{
         font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
         position:absolute;
-        right:2vw;
+        right:4vw;
         top:-1vw;
-        font-size:1vw;
+        font-size:1.5vw;
     }
     .icono-desplazamiento-ig{
         position:absolute;
-        top:58vw;
+        top:412vw;
     }
     .icono-desplazamiento-tw{
         position:absolute;
-        top:58vw;
+        top:412vw;
     }
     .icono-desplazamiento-face{
         position:absolute;
-        top:58vw;
+        top:412vw;
     }
-    .informacion-general-aclav{
-        top: 150vw;
-    }
-    .icono-desplazamiento-ig-pos-aclav{
-        top:140vw;
-    }
-    .icono-desplazamiento-face-pos-aclav{
-        top:140vw;
-    }
-    .icono-desplazamiento-tw-pos-aclav{
-        top:140vw;
-        right:45vw;
-    }
-    #paginacion-posiciones-aclav{
-        top:130vw;
-        right:35vw;
-    }
-
-
-
     .posicionamiento-nombredegrupo-1-posiciones-aclav{
         top:45vw; 
         right:47vw;
@@ -137,4 +119,4 @@
         right:1.5vw;
         top:-1vw;
     }
-}*/
+}
