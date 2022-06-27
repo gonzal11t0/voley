@@ -70,38 +70,38 @@
     .reglas-informacion{
         font-size:2.5vw;
     }
-    .posicionamiento-nombredegrupo-1-posiciones-aclav{
-        top:50vw; 
-        right:47vw;
+    .nombre-pos-grupo1-aclav{
+        top:30vh; 
+        right:0vw;
     }
-    #posicionamiento-grupo-1-posiciones-aclav{
+    .posicionamiento-grupo-1-posiciones-aclav{
         position: absolute;
-        top:60vw;
+        top:40vh;
         right:5vw;
         width:90vw;
     }
-    .posicionamiento-nombredegrupo-2-posiciones-aclav{
-        top:90vw;
-        right:47vw;
+    .nombre-pos-grupo2-aclav{
+        top:85vw;
+        right:0vw;
     }
-    #posicionamiento-grupo-2-posiciones-aclav{
+    .posicionamiento-grupo-2-posiciones-aclav{
         position: absolute;
         top:100vw;
         right:5vw;
         width:90vw;
     }
-    .posicionamiento-nombredegrupo-3-posiciones-aclav{
-        top:130vw; 
-        right:47vw;
+    .nombre-pos-grupo3-aclav{
+        top:125vw; 
+        right:0vw;
     }
-    #posicionamiento-grupo-3-posiciones-aclav{
+    .posicionamiento-grupo-3-posiciones-aclav{
         position:absolute; 
         top:140vw; 
         right:5vw;
         width:90vw;
     }
-    #paginacion-posiciones-aclav{
-        top:170vw;
+    .paginacion-posiciones-aclav{
+        top:135vh;
         right:35vw;
         height:0.5vw;
     }
@@ -183,7 +183,5 @@
         top:-1vw;
     }
     /*fixture aclav*/
-    .informacion-general-fixture-aclav{
-        top:30vw;
-    }
+    
 }

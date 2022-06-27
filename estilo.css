@@ -292,7 +292,7 @@ nav{
     border-radius:50px;
     margin:25px;
     right:90vw;
-    top:75vw;
+    top:130vh;
 }
 .icono-desplazamiento-tw-pos-lvarus{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
@@ -300,7 +300,7 @@ nav{
     position:absolute;
     margin:25px;
     right:60vw;
-    top:75vw;
+    top:130vh;
 }
 .icono-desplazamiento-face-pos-lvarus{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -308,7 +308,7 @@ nav{
     position:absolute;
     margin:25px;
     right:15vw;
-    top:75vw;
+    top:130vh;
 }
 .icono-desplazamiento-ig-fixture-lvarus{
     position:absolute;
@@ -340,7 +340,7 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:118vw;
+    top:250vh;
 }
 .icono-desplazamiento-tw-fixture-aclav{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
@@ -348,7 +348,7 @@ nav{
     position:absolute;
     margin:25px;
     right:60vw;
-    top:118vw;
+    top:250vh;
 }
 .icono-desplazamiento-face-fixture-aclav{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -356,7 +356,7 @@ nav{
     position:absolute;
     margin:25px;
     right:20vw;
-    top:118vw;
+    top:250vh;
 }
 .icono-desplazamiento-ig-olimpicos{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
@@ -454,13 +454,14 @@ nav{
     right:6vw;
     top:80vw;
 }
+
 .icono-desplazamiento-ig-campeonato-mundial-m{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
     border-radius:50px;
     position:absolute;
     margin:25px;
     right:90vw;
-    top:90vw;
+    top:100vw;
 }
 .icono-desplazamiento-tw-campeonato-mundial-m{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
@@ -468,7 +469,7 @@ nav{
     position:absolute;
     margin:25px;
     right:80vw;
-    top:90vw;
+    top:100vw;
 }
 .icono-desplazamiento-face-campeonato-mundial-m{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -476,39 +477,7 @@ nav{
     position:absolute;
     margin:25px;
     right:20vw;
-    top:90vw;
-}
-.icono-desplazamiento-wsp-campeonato-mundial-m{
-    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
-    border-radius:50px;
-    position:absolute;
-    margin:25px;
-    right:6vw;
-    top:90vw;
-}
-.icono-desplazamiento-ig-campeonato-mundial-m{
-    box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
-    border-radius:50px;
-    position:absolute;
-    margin:25px;
-    right:90vw;
-    top:90vw;
-}
-.icono-desplazamiento-tw-campeonato-mundial-m{
-    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
-    border-radius:50px;
-    position:absolute;
-    margin:25px;
-    right:80vw;
-    top:90vw;
-}
-.icono-desplazamiento-face-campeonato-mundial-m{
-    box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
-    border-radius:50px;
-    position:absolute;
-    margin:25px;
-    right:20vw;
-    top:90vw;
+    top:100vw;
 }
 .icono-desplazamiento-wsp-campeonato-mundial-m{
     box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
@@ -575,6 +544,46 @@ nav{
     right:6vw;
     top:65vw;
 }
+.pos-nation-league{
+    position: absolute;
+    top:39vh;
+    right:37vw;
+}
+.posicionamiento-nation-league{
+    position: absolute;
+    top:50vh;
+    right:68vw;
+}
+.informacion-general-naciones-grupos{
+    position: absolute;
+    top:176vh;
+    height:4vw;
+    width:90vw;
+    right:5vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-size:1vw; 
+    font-weight:100; 
+    text-align: center; 
+    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
+    z-index: 2;
+    color: transparent;
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 20px; 
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: #ffffff;
+    border-radius: 55px 5px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 4px solid #f52004;
+    box-shadow:5px 5px 5px 5px red
+}
+.informacion-general-naciones-grupos:hover{
+    background: #aa4400;
+    border: 6px solid #f58d04;
+}
 .icono-desplazamiento-ig-panamericanos{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
     border-radius:50px;
@@ -613,15 +622,7 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:170vw;
-}
-.icono-desplazamiento-tw-naciones-grupo{
-    box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
-    border-radius:50px;
-    position:absolute;
-    margin:25px;
-    right:60vw;
-    top:170vw;
+    top:165vh;
 }
 .icono-desplazamiento-face-naciones-grupo{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -629,15 +630,7 @@ nav{
     position:absolute;
     margin:25px;
     right:30vw;
-    top:170vw;
-}
-.icono-desplazamiento-wsp-naciones-grupo{
-    box-shadow: 6px 2px 16px rgba(6, 116, 55, 0.7);
-    border-radius:50px;
-    position:absolute;
-    margin:25px;
-    right:6vw;
-    top:170vw;
+    top:165vh;
 }
 .icono-desplazamiento-ig-naciones-fixture{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
@@ -645,7 +638,7 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:80vw;
+    top:490vh;
 }
 
 .icono-desplazamiento-face-naciones-fixture{
@@ -654,7 +647,7 @@ nav{
     position:absolute;
     margin:25px;
     right:20vw;
-    top:80vw;
+    top:490vh;
 }
 
 .icono-desplazamiento-ig-copa-panamericana{
@@ -761,15 +754,6 @@ table tr:nth-child(even):hover{
     color:black;
     background-color:#007700;
 }
-table.tableizer-table {
-    position:absolute;
-    top:22vw;
-    width:40vw;
-    right:20vw;
-    font-size: 12px;
-    border: 1px solid #CCC; 
-    font-family: Arial, Helvetica, sans-serif;
-} 
 .tableizer-table td {
     padding: 4px;
     margin: 3px;
@@ -914,7 +898,7 @@ table.tableizer-table {
 }
 .informacion-general-fixture-aclav{
     position: absolute;
-    top:124vw;
+    top:265vh;
     height:4vw;
     width:90vw;
     right:05vw;
@@ -978,7 +962,7 @@ table.tableizer-table {
 }
 .informacion-general-posiciones-lvarus{
     position: absolute;
-    top:81vw;
+    top:155vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -1073,7 +1057,7 @@ table.tableizer-table {
 }
 .informacion-general-torneos-int-clubes{
     position: absolute;
-    top:44.7vw;
+    top:92vh;
     color: #007700;
     height:4vw;
     width:100vw;
@@ -1220,7 +1204,7 @@ table.tableizer-table {
 }
 .informacion-general-liga-camp-fixture-a-m{ 
     position: absolute;
-    top:96vw;
+    top:200vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -1249,7 +1233,7 @@ table.tableizer-table {
 }
 .informacion-general-liga-camp-fixture-b-m{
     position: absolute;
-    top:96vw;
+    top:230vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -1278,7 +1262,7 @@ table.tableizer-table {
 }
 .informacion-general-liga-camp-fixture-c-m{
     position: absolute;
-    top:96vw;
+    top:200vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -1307,7 +1291,7 @@ table.tableizer-table {
 }
 .informacion-general-liga-camp-fixture-d-m{
     position: absolute;
-    top:96vw;
+    top:218vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -1336,7 +1320,7 @@ table.tableizer-table {
 }
 .informacion-general-liga-camp-fixture-e-m{
     position: absolute;
-    top:92vw;
+    top:193vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -1366,7 +1350,7 @@ table.tableizer-table {
 }
 .informacion-general-liga-camp-play-off-m{
     position: absolute;
-    top:88vw;
+    top:190vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -1484,7 +1468,7 @@ table.tableizer-table {
 }
 .informacion-general-camp-sud-f{
     position: absolute;
-    top:133vw;
+    top:290vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -1633,7 +1617,7 @@ table.tableizer-table {
 }
 .informacion-general-campeonato-mundial-fixture-masculino{
     position: absolute;
-    top:96vw;
+    top:105vw;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -1691,39 +1675,9 @@ table.tableizer-table {
     background: #aa4400;
     border: 6px solid #f58d04;
 }
-.informacion-general-naciones-grupos{
-    position: absolute;
-    top:176vw;
-    height:4vw;
-    width:90vw;
-    right:5vw;
-    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
-    font-size:1vw; 
-    font-weight:100; 
-    text-align: center; 
-    background: linear-gradient(to right, rgb(255, 110, 127), rgb(34, 37, 39));
-    z-index: 2;
-    color: transparent;
-    margin: 0 0 25px; 
-    overflow: hidden; 
-    padding: 20px; 
-    -moz-text-stroke-width: 2px;
-    -webkit-text-stroke-width: 2px;
-    -moz-text-stroke-color: #000000;
-    -webkit-text-stroke-color: #ffffff;
-    border-radius: 55px 5px 35px 0px; 
-    -moz-border-radius: 35px 0px 35px 0px; 
-    -webkit-border-radius: 35px 0px 35px 0px; 
-    border: 4px solid #f52004;
-    box-shadow:5px 5px 5px 5px red
-}
-.informacion-general-naciones-grupos:hover{
-    background: #aa4400;
-    border: 6px solid #f58d04;
-}
 .informacion-general-naciones-fixture{
     position: absolute;
-    top:86vw;
+    top:500vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -2101,36 +2055,115 @@ table.tableizer-table {
 .page-item{
     right:00vw;
 }
-#paginacion-posiciones-aclav{
+.paginacion-posiciones-aclav{
     position:absolute;
     top:80vw;
     right:42vw;
 }
-.posicionamiento-nombredegrupo-1-posiciones-aclav{
+.paginacion-fixture-aclav{
+    position:absolute;
+    top:285vh;
+    right:40vw;
+}
+.nombre-pos-grupo1-aclav{
     top:35vw; 
-    right:67vw;
+    right:60vw;
 }
-#posicionamiento-grupo-1-posiciones-aclav{
+.posicionamiento-grupo-1-posiciones-aclav{
     position: absolute;
     top:40vw;
-    right:53vw;
+    right:92vw;
 }
-.posicionamiento-nombredegrupo-2-posiciones-aclav{
+.nombre-pos-grupo2-aclav{
     top:35vw;
-    right:20vw;
+    right:08vw;
 }
-#posicionamiento-grupo-2-posiciones-aclav{
+.posicionamiento-grupo-2-posiciones-aclav{
     position: absolute;
     top:40vw;
-    right:05vw;
+    right:40vw;
 }
 
-.posicionamiento-nombredegrupo-3-posiciones-aclav{
+.nombre-pos-grupo3-aclav{
     top:55vw; 
-    right:44vw;
+    right:38vw;
 }
-#posicionamiento-grupo-3-posiciones-aclav{
+.posicionamiento-grupo-3-posiciones-aclav{
     position:absolute; 
     top:60vw; 
-    right:30vw;
+    right:70vw;
+}
+.nombre-grupo1-aclav{
+    position:absolute;
+    top:55vh; 
+    right:55vw;
+}
+.grupo1-fixture-aclav{
+    display:flex;
+    position: absolute;
+    top:50vh;
+    right:50vw;
+    width:40vw;
+    height:15vw;
+    font-size:1vw;
+}
+.nombre-grupo2-aclav{
+    top:28vw;
+    right:10vw;
+}
+.grupo2-fixture-aclav{
+    position:absolute;
+    top:33vw;
+    right:06vw;
+    width:35vw;
+    height:15vw;
+    font-size:1vw;
+}
+.nombre-grupo3-aclav{
+    top:105vh;
+    right:35vw;
+}
+.grupo3-fixture-aclav{
+    position: absolute;
+    top:120vh;
+    right:25vw;
+    height:15vw;
+    width:40vw;
+    font-size:1vw;
+}
+.nombre-cuartos-aclav{
+    top:190vh;
+    right:60vw;
+}
+.cuartos-aclav{
+    position: absolute;
+    top:200vh;
+    right:50vw;
+    height:10vw; 
+    width:40vw;
+    font-size:1vw;
+}
+.nombre-semi-aclav{
+    top:190vh;
+    right:10vw;
+}
+.semi-aclav{
+    position: absolute;
+    top:200vh;
+    right:0vw;
+    height:10vw; 
+    width:40vw;
+    font-size:1vw;
+}
+.nombre-final-aclav{
+    top:245vh;
+    right:35vw;
+}
+.final-aclav{
+    position: absolute;
+    top:255vh;
+    right:10vw;
+    height:8vw; 
+    width:53vw;
+    font-size:1.2vw;
 }
