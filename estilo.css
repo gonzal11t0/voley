@@ -156,7 +156,7 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:49vw;
+    top:100vh;
 }
 .icono-desplazamiento-tw{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
@@ -164,7 +164,7 @@ nav{
     position:absolute;
     margin:25px;
     right:48vw;
-    top:49vw;
+    top:100vh;
 }
 .icono-desplazamiento-face{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -172,7 +172,7 @@ nav{
     position:absolute;
     margin:25px;
     right:15vw;
-    top:49vw;
+    top:100vh;
 }
 .icono-desplazamiento-ig-supercopa{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
@@ -268,7 +268,7 @@ nav{
     border-radius:50px;
     margin:25px;
     right:90vw;
-    top:79vw;
+    top:160vh;
 }
 .icono-desplazamiento-tw-pos-aclav{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
@@ -276,7 +276,7 @@ nav{
     position:absolute;
     margin:25px;
     right:60vw;
-    top:79vw;
+    top:160vh;
 }
 .icono-desplazamiento-face-pos-aclav{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -284,7 +284,7 @@ nav{
     position:absolute;
     margin:25px;
     right:15vw;
-    top:79vw;
+    top:160vh;
 }
 .icono-desplazamiento-ig-pos-lvarus{
     position:absolute;
@@ -340,7 +340,7 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:250vh;
+    top:255vh;
 }
 .icono-desplazamiento-tw-fixture-aclav{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
@@ -348,7 +348,7 @@ nav{
     position:absolute;
     margin:25px;
     right:60vw;
-    top:250vh;
+    top:255vh;
 }
 .icono-desplazamiento-face-fixture-aclav{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -356,7 +356,7 @@ nav{
     position:absolute;
     margin:25px;
     right:20vw;
-    top:250vh;
+    top:255vh;
 }
 .icono-desplazamiento-ig-olimpicos{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
@@ -764,43 +764,9 @@ table tr:nth-child(even):hover{
     color: #FFF;
     font-weight: bold;
 }
-#texto-info-general-1{
-    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
-    position:absolute;
-    font-size:1.2vw;
-    top:-1.5vw;
-}
-#texto-info-general-2{
-    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
-    position:absolute;
-    top:0vw;
-    font-size:1vw;
-    right:80vw;
-}
-#texto-info-general-3{
-    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
-    position:absolute;
-    right:43vw;
-    top:-1vw;
-    font-size:1.2vw;
-}
-#texto-info-general-4{
-    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
-    position:absolute;
-    right:12vw;
-    top:-1.5vw;
-    font-size:1.2vw;
-}
-#texto-info-general-5{
-    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
-    position:absolute;
-    right:2vw;
-    top:0vw;
-    font-size:1vw;
-}
 .informacion-general{
     position: absolute;
-    top:55vw;
+    top:110vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -827,48 +793,83 @@ table tr:nth-child(even):hover{
     background: #aa4400;
     border: 6px solid #f58d04;
 }
+#texto-info-general-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:1.2vw;
+    top:-3vh;
+}
+#texto-info-general-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:1vw;
+    right:80vw;
+    top:0vh;
+}
+#texto-info-general-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    right:43vw;
+    top:-2vh;
+    font-size:1.2vw;
+}
+#texto-info-general-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    right:12vw;
+    top:-3vh;
+    font-size:1.2vw;
+}
+#texto-info-general-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    right:2vw;
+    top:0vh;
+    font-size:1vw;
+}
+
 #texto-info-general-aclav-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-3vh;
 }
 
 #texto-info-general-aclav-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
+    font-size:1vw;
+    top:0vh;
     right:75vw;
 }
 
 #texto-info-general-aclav-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:40vw;
 }
 
 #texto-info-general-aclav-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
-    right:15vw
+    font-size:1vw;
+    top:-2vh;
+    right:14vw
 }
 
 #texto-info-general-aclav-5{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
+    font-size:1vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 
 .informacion-general-aclav{
     position: absolute;
-    top:85vw;
+    top:175vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -898,7 +899,7 @@ table tr:nth-child(even):hover{
 }
 .informacion-general-fixture-aclav{
     position: absolute;
-    top:265vh;
+    top:267vh;
     height:4vw;
     width:90vw;
     right:05vw;
@@ -1049,6 +1050,11 @@ table tr:nth-child(even):hover{
 #paginacion-fixture-aclav{
     position: absolute;
     top:208vw;
+    right:40vw;
+}
+#paginacion-fixture-aclav{
+    position:absolute;
+    top:256vh;
     right:40vw;
 }
 .informacion-general-supercopa:hover{
@@ -2057,7 +2063,7 @@ table tr:nth-child(even):hover{
 }
 .paginacion-posiciones-aclav{
     position:absolute;
-    top:80vw;
+    top:165vh;
     right:42vw;
 }
 .paginacion-fixture-aclav{
@@ -2066,32 +2072,94 @@ table tr:nth-child(even):hover{
     right:40vw;
 }
 .nombre-pos-grupo1-aclav{
-    top:35vw; 
+    top:72vh; 
     right:60vw;
 }
 .posicionamiento-grupo-1-posiciones-aclav{
     position: absolute;
-    top:40vw;
+    top:85vh;
     right:92vw;
 }
+.nombre-fixture-grupo1-aclav{
+    position: absolute;
+    top:55vh; 
+    right:65vw;
+}
+.posicionamiento-fixture-1-aclav{
+    position: absolute;
+    top:33vw;
+    right:50vw;
+}
 .nombre-pos-grupo2-aclav{
-    top:35vw;
+    top:72vh;
     right:08vw;
 }
 .posicionamiento-grupo-2-posiciones-aclav{
     position: absolute;
-    top:40vw;
+    top:85vh;
     right:40vw;
 }
+.nombre-fixture-grupo2-aclav{
+    position: absolute;
+    top:28vw;
+    right:18vw;
+}
+.posicionamiento-fixture-2-aclav{
+    position:absolute;
+    top:33vw;
+    right:06vw;
 
+}
 .nombre-pos-grupo3-aclav{
-    top:55vw; 
+    top:112vh; 
     right:38vw;
 }
 .posicionamiento-grupo-3-posiciones-aclav{
     position:absolute; 
-    top:60vw; 
+    top:125vh; 
     right:70vw;
+}
+.nombre-fixture-grupo3-aclav{
+    position: absolute;
+    top:50vw;
+    right:41vw;
+}
+.posicionamiento-fixture-grupo3-aclav{
+    position: absolute;
+    top:55vw;
+    right:30vw;
+    font-size:1vw;
+    
+}
+.nombre-fixture-4tos-aclav{
+    top:160vh;
+    right:40vw;
+}
+.posicionamiento-fixture-4tos-aclav{
+    position: absolute;
+    top:170vh;
+    right:30vw;
+}
+.nombre-fixture-semi-aclav{
+    top:205vh;
+    right:41vw;
+}
+.posicionamiento-fixture-semi-aclav{
+    position: absolute;
+    top:215vh;
+    right:30vw;
+    height:10vw; 
+    width:37vw;
+    font-size:1vw;
+}
+.nombre-fixture-final-aclav{
+    top:235vh;
+    right:45vw;
+}
+.posicionamiento-fixture-final-aclav{
+    position: absolute;
+    top:245vh;
+    right:30vw;
 }
 .nombre-grupo1-aclav{
     position:absolute;
