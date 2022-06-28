@@ -137,9 +137,6 @@ nav{
 .ciudad-tabla{
     font-size:2vw;
 }
-.texto-tabla{
-    font-size: 1.8;
-}
 .info-ultima{
     text-align: center;
     top:35vw;
@@ -2086,7 +2083,7 @@ table tr:nth-child(even):hover{
 #texto-tabla{
     position: absolute;
     font-family:'Courier New', Courier, monospace;
-    font-size:1.2vw;
+    font-size:1vw;
     color: #1a0f0f;
     border: 8px solid #01360a;
     box-shadow: 03px 03px 03px 9px rgba(2, 168, 99, 0.7);
@@ -2161,9 +2158,7 @@ table tr:nth-child(even):hover{
 .posicionamiento-fixture-grupo3-aclav{
     position: absolute;
     top:55vw;
-    right:30vw;
-    font-size:1vw;
-    
+    right:30vw;   
 }
 .nombre-fixture-4tos-aclav{
     top:160vh;
@@ -2184,7 +2179,6 @@ table tr:nth-child(even):hover{
     right:30vw;
     height:10vw; 
     width:37vw;
-    font-size:1vw;
 }
 .nombre-fixture-final-aclav{
     top:235vh;
@@ -2439,4 +2433,35 @@ table tr:nth-child(even):hover{
     top:340vw; 
     right:30vw;
     width:40vw;
+}
+.nombre-semi-supercopa{
+    top:30vw;
+    right:68vw;
+}
+.posicionamiento-semi-supercopa{
+    top:35vw;
+    right:60vw;
+    height:10vw; 
+    width:30vw;
+}
+.nombre-3ro4to-supercopa{
+    top:30vw;
+    right:18vw;
+}
+.posicionamiento-3ro4to-supercopa{
+    top:35vw;
+    right:08vw;
+    height:5vw;
+    width:30vw;
+}
+.nombre-final-supercopa{
+    top:45vw;
+    right:45vw;
+}
+.posicionamiento-final-supercopa{
+    position: absolute;
+    top:50vw;
+    right:34vw;
+    height:5vw;
+    width:30vw;
 }
