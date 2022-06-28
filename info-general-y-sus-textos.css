@@ -1333,17 +1333,82 @@
     right:4vw;
     top:0vh;
 }
-
-#paginacion-fixture-aclav{
-    position: absolute;
-    top:208vw;
-    right:40vw;
-}
-#paginacion-fixture-aclav{
+#texto-info-general-camp-mund-fivb-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    top:256vh;
+    font-size:0.8vw;
+    top:-1vw;
+}
+#texto-info-general-camp-mund-fivb-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:80vw;
+}
+
+#texto-info-general-camp-mund-fivb-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
     right:40vw;
 }
+
+#texto-info-general-camp-mund-fivb-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+
+#texto-info-general-camp-mund-fivb-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
+#texto-info-general-camp-mund-fivb-f-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+#texto-info-general-camp-mund-fivb-f-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:84vw;
+}
+#texto-info-general-camp-mund-fivb-f-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:45vw;
+}
+#texto-info-general-camp-mund-fivb-f-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+
+
+#texto-info-general-camp-mund-fivb-f-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
+
+
+
 
 
 #estilos-de-grupos{

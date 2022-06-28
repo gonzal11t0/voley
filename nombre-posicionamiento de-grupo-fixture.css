@@ -1,3 +1,4 @@
+
 .paginacion-posiciones-aclav{
     position:absolute;
     top:165vh;
@@ -5,9 +6,53 @@
 }
 .paginacion-fixture-aclav{
     position:absolute;
-    top:285vh;
+    top:258vh;
     right:40vw;
 }
+.paginacion-posiciones-lvarus{
+    position:absolute;
+    top:115vh;
+    right:42vw;
+}
+.paginacion-torneos-camp-mun-fivb{
+    position:absolute;
+    top:26vw;
+    width:85vw;
+    height:5vw;
+    right:00vw;
+}
+.paginacion-camp-mun-fivb{
+    position:absolute;
+    top:85vw;
+    width:5vw;
+    height:5vw;
+    right:55vw;
+}
+.paginacion-torneo-camp-mun-fivb-f{
+    position:absolute;
+    top:26.5vw;
+    width:85vw;
+    height:5vw;
+    right:00vw;
+}
+.paginacion-fases-camp-mund-fivb-f{
+    position:absolute;
+    top:95vw;
+    width:20vw;
+    height:2vw;
+    right:35vw;
+}
+.paginacion-camp-mun-fivb-f{
+    position:absolute;
+    top:102vw;
+    width:5vw;
+    height:5vw;
+    right:50vw;
+}
+
+
+
+
 .nombre-pos-grupo1-aclav{
     top:72vh; 
     right:60vw;
@@ -105,11 +150,6 @@
     top:55vh; 
     right:28vw;
     font-size: 25vw;
-}
-.paginacion-posiciones-lvarus{
-    position:absolute;
-    top:115vh;
-    right:42vw;
 }
 .nombre-fecha1-lvarus{
     top:30vw; 
@@ -370,4 +410,146 @@
     right:34vw;
     height:5vw;
     width:30vw;
+}
+.nombre-grupo-campmundialfivb{
+    top:29vw;
+    right:47vw;
+}
+.posicionamiento-grupo-campmundialfivb{
+    position:absolute;
+    top:35.2vw;
+    right:30vw;
+    width:45vw;
+}
+.nombre-fecha1-campfivb{
+    top:47vw;
+    right:80vw;
+}
+.posicionamiento-fecha1-campfivb{
+    top:52vw; 
+    right:70vw;
+    width:25vw;
+}
+.nombre-fecha2-campfivb{
+    top:47vw; 
+    right:47vw;
+}
+.posicionamiento-fecha2-campfivb{
+    top:52vw; 
+    right:38vw;
+    width:25vw;
+}
+.nombre-fecha3-campfivb{
+    top:47vw; 
+    right:15vw;
+}
+.posicionamiento-fecha3-campfivb{
+    top:52vw; 
+    right:05vw;
+    width:25vw;
+    font-size:1vw;
+}
+.nombre-semi-campfivb{
+    top:65vw; 
+    right:78vw;
+}
+.posicionamiento-semi-campfivb{
+    top:70vw; 
+    right:70vw;
+    width:25vw;
+}
+.nombre-tercer-campfivb{
+    top:65vw; 
+    right:45vw;
+}
+.posicionamiento-tercer-campfivb{
+    top:70vw; 
+    right:38vw;
+    width:25vw;
+    height:5vw;
+}
+.nombre-final-campfivb{
+    top:65vw; 
+    right:15vw;
+}
+.posicionamiento-final-campfivb{
+    top:70vw; 
+    right:06vw;
+    width:25vw;
+    height:5vw;
+}
+.nombre-grupo-a-campfivb-f{
+    top:30vw;
+    right:70vw;
+}
+.posicionamiento-grupo-a-campfivb-f{
+    position:absolute;
+    top:35vw;
+    right:55vw;
+    width:40vw;
+}
+.nombre-fecha1-a-campfivb-f{
+    top:55vw; 
+    right:68vw;
+}
+.posicionamiento-fecha1-a-campfivb-f{
+    top:60vw; 
+    right:60vw;
+    width:25vw;
+}
+.nombre-fecha2-a-campfivb-f{
+    top:70vw; 
+    right:68vw;
+}
+.posicionamiento-fecha2-a-campfivb-f{
+    top:75vw; 
+    right:60vw;
+    width:25vw;
+}
+.nombre-fecha3-a-campfivb-f{
+    top:85vw;
+    right:68vw;
+}
+.posicionamiento-fecha3-a-campfivb-f{
+    top:90vw; 
+    right:60vw;
+    width:25vw;
+}
+.nombre-grupo-b-campfivb-f{
+    top:30vw;
+    right:22vw;
+}
+.posicionamiento-grupo-b-campfivb-f{
+    position:absolute;
+    top:35vw;
+    right:05vw;
+    width:40vw;
+    height:16vw;
+}
+.nombre-fecha1-b-campfivb-f{
+    top:55vw; 
+    right:18vw;
+}
+.posicionamiento-fecha1-b-campfivb-f{
+    top:60vw; 
+    right:10vw;
+    width:25vw;
+}
+.nombre-fecha2-b-campfivb-f{
+    top:70vw; 
+    right:18vw;
+}
+.posicionamiento-fecha2-b-campfivb-f{
+    top:75vw; 
+    right:10vw;
+    width:25vw;
+}
+.nombre-fecha3-b-campfivb-f{
+    top:85vw;
+    right:18vw;
+}
+.posicionamiento-fecha3-b-campfivb-f{
+    top:90vw; 
+    right:10vw;
+    width:25vw;
 }
