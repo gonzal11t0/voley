@@ -1,0 +1,373 @@
+.paginacion-posiciones-aclav{
+    position:absolute;
+    top:165vh;
+    right:42vw;
+}
+.paginacion-fixture-aclav{
+    position:absolute;
+    top:285vh;
+    right:40vw;
+}
+.nombre-pos-grupo1-aclav{
+    top:72vh; 
+    right:60vw;
+}
+.posicionamiento-grupo-1-posiciones-aclav{
+    position: absolute;
+    top:85vh;
+    right:92vw;
+}
+.nombre-fixture-grupo1-aclav{
+    position: absolute;
+    top:55vh; 
+    right:65vw;
+}
+.posicionamiento-fixture-1-aclav{
+    position: absolute;
+    top:33vw;
+    right:50vw;
+}
+.nombre-pos-grupo2-aclav{
+    top:72vh;
+    right:08vw;
+}
+.posicionamiento-grupo-2-posiciones-aclav{
+    position: absolute;
+    top:85vh;
+    right:40vw;
+}
+.nombre-fixture-grupo2-aclav{
+    position: absolute;
+    top:28vw;
+    right:18vw;
+}
+.posicionamiento-fixture-2-aclav{
+    position:absolute;
+    top:33vw;
+    right:06vw;
+
+}
+.nombre-pos-grupo3-aclav{
+    top:112vh; 
+    right:38vw;
+}
+.posicionamiento-grupo-3-posiciones-aclav{
+    position:absolute; 
+    top:125vh; 
+    right:70vw;
+}
+.nombre-fixture-grupo3-aclav{
+    position: absolute;
+    top:50vw;
+    right:41vw;
+}
+.posicionamiento-fixture-grupo3-aclav{
+    position: absolute;
+    top:55vw;
+    right:30vw;   
+}
+.nombre-fixture-4tos-aclav{
+    top:160vh;
+    right:40vw;
+}
+.posicionamiento-fixture-4tos-aclav{
+    position: absolute;
+    top:170vh;
+    right:30vw;
+}
+.nombre-fixture-semi-aclav{
+    top:205vh;
+    right:41vw;
+}
+.posicionamiento-fixture-semi-aclav{
+    position: absolute;
+    top:215vh;
+    right:30vw;
+    height:10vw; 
+    width:37vw;
+}
+.nombre-fixture-final-aclav{
+    top:235vh;
+    right:45vw;
+}
+.posicionamiento-fixture-final-aclav{
+    position: absolute;
+    top:245vh;
+    right:30vw;
+}
+.nombre-pos-lvarus{
+    position: absolute;
+    top:40vh;
+    right:35vw;
+}
+.posicionamiento-posiciones-lvarus{
+    position: absolute; 
+    top:55vh; 
+    right:28vw;
+    font-size: 25vw;
+}
+.paginacion-posiciones-lvarus{
+    position:absolute;
+    top:115vh;
+    right:42vw;
+}
+.nombre-fecha1-lvarus{
+    top:30vw; 
+    right:71vw;
+    font-size:2.5vw;
+}
+.posicionamiento-fecha1-lvarus{
+    position: absolute; 
+    top:35vw; 
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha2-lvarus{
+    top:30vw; 
+    right:18vw;
+    font-size:2.5vw;
+}
+.posicionamiento-fecha2-lvarus{
+    top:35vw; 
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha3-lvarus{
+    top:55vw; 
+    right:71vw;
+    font-size:2.5vw;
+}
+.posicionamiento-fecha3-lvarus{
+    top:60vw; 
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha4-lvarus{
+    top:55vw; 
+    right:18vw;
+}
+.posicionamiento-fecha4-lvarus{
+    top:60vw; 
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha5-lvarus{
+    top:80vw;
+    right:71vw;
+}
+.posicionamiento-fecha5-lvarus{
+    top:85vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha6-lvarus{
+    top:80vw; 
+    right:18vw;
+}
+.posicionamiento-fecha6-lvarus{
+    top:85vw;
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha7-lvarus{
+    top:105vw; 
+    right:71vw;
+}
+.posicionamiento-fecha7-lvarus{
+    top:110vw; 
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha8-lvarus{
+    top:105vw;
+    right:18vw;
+}
+.posicionamiento-fecha8-lvarus{
+    top:110vw; 
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha9-lvarus{
+    top:130vw;
+    right:71vw;
+}
+.posicionamiento-fecha9-lvarus{
+    top:135vw; 
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha10-lvarus{
+    top:130vw; 
+    right:18vw;
+}
+.posicionamiento-fecha10-lvarus{
+    top:135vw; 
+    right:08vw; 
+    width:30vw;
+}
+.nombre-fecha11-lvarus{
+    top:155vw;
+    right:71vw;
+}
+.posicionamiento-fecha11-lvarus{
+    top:160vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha12-lvarus{
+    top:155vw; 
+    right:18vw;
+}
+.posicionamiento-fecha12-lvarus{
+    top:160vw;
+    right:08vw; 
+    width:30vw;
+}
+.nombre-fecha13-lvarus{
+    top:180vw; 
+    right:71vw;
+}
+.posicionamiento-fecha13-lvarus{
+    top:185vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha14-lvarus{
+    top:180vw;
+    right:18vw;
+}
+.posicionamiento-fecha14-lvarus{
+    top:185vw;
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha15-lvarus{
+    top:205vw;
+    right:71vw;
+}
+.posicionamiento-fecha15-lvarus{
+    top:210vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha16-lvarus{
+    top:205vw;
+    right:18vw;
+}
+.posicionamiento-fecha16-lvarus{
+    top:210vw;
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha17-lvarus{
+    top:230vw;
+    right:71vw;
+}
+.posicionamiento-fecha17-lvarus{
+    top:235vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha18-lvarus{
+    top:230vw;
+    right:18vw;
+}
+.posicionamiento-fecha18-lvarus{
+    top:235vw;
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha19-lvarus{
+    top:255vw;
+    right:71vw;
+}
+.posicionamiento-fecha19-lvarus{
+    top:260vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha20-lvarus{
+    top:255vw;
+    right:18vw;
+}
+.posicionamiento-fecha20-lvarus{
+    top:260vw; 
+    right:08vw; 
+    width:30vw;
+}
+.nombre-fecha21-lvarus{
+    top:280vw;
+    right:71vw;
+}
+.posicionamiento-fecha21-lvarus{
+    top:285vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha22-lvarus{
+    top:280vw; 
+    right:18vw;
+}
+.posicionamiento-fecha22-lvarus{
+    top:285vw; 
+    right:08vw; 
+    width:30vw;
+}
+.nombre-cuartos-lvarus{
+    top:305vw;
+    right:68vw;
+}
+.posicionamiento-cuartos-lvarus{
+    top:310vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-semi-lvarus{
+    top:305vw; 
+    right:18vw;
+}
+.posicionamiento-semi-lvarus{
+    top:310vw; 
+    right:08vw; 
+    width:30vw;
+}
+.nombre-final-lvarus{
+    top:335vw; 
+    right:45vw;
+}
+.posicionamiento-final-lvarus{
+    top:340vw; 
+    right:30vw;
+    width:40vw;
+}
+.nombre-semi-supercopa{
+    top:30vw;
+    right:68vw;
+}
+.posicionamiento-semi-supercopa{
+    top:35vw;
+    right:60vw;
+    height:10vw; 
+    width:30vw;
+}
+.nombre-3ro4to-supercopa{
+    top:30vw;
+    right:18vw;
+}
+.posicionamiento-3ro4to-supercopa{
+    top:35vw;
+    right:08vw;
+    height:5vw;
+    width:30vw;
+}
+.nombre-final-supercopa{
+    top:45vw;
+    right:45vw;
+}
+.posicionamiento-final-supercopa{
+    position: absolute;
+    top:50vw;
+    right:34vw;
+    height:5vw;
+    width:30vw;
+}
