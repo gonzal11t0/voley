@@ -292,15 +292,15 @@ nav{
     border-radius:50px;
     margin:25px;
     right:90vw;
-    top:130vh;
+    top:110vh;
 }
 .icono-desplazamiento-tw-pos-lvarus{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
     border-radius:50px;
     position:absolute;
     margin:25px;
-    right:60vw;
-    top:130vh;
+    right:65vw;
+    top:110vh;
 }
 .icono-desplazamiento-face-pos-lvarus{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -308,7 +308,7 @@ nav{
     position:absolute;
     margin:25px;
     right:15vw;
-    top:130vh;
+    top:110vh;
 }
 .icono-desplazamiento-ig-fixture-lvarus{
     position:absolute;
@@ -963,7 +963,7 @@ table tr:nth-child(even):hover{
 }
 .informacion-general-posiciones-lvarus{
     position: absolute;
-    top:155vh;
+    top:127vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -990,6 +990,40 @@ table tr:nth-child(even):hover{
 .informacion-general-posiciones-lvarus:hover{
     background: #aa4400;
     border: 6px solid #f58d04;
+}
+.texto-info-general-lvarus-1{
+    position:absolute;
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;    
+    font-size:1vw;
+    top:-3vh;
+}
+.texto-info-general-lvarus-2{
+    position:absolute;
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;    
+    font-size:1vw;
+    top:0vh;
+    right:75vw;
+}
+.texto-info-general-lvarus-3{
+    position:absolute;
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    font-size:1vw;
+    top:-3vh;
+    right:40vw;
+}
+.texto-info-general-lvarus-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:1vw;
+    top:-3vh;
+    right:15vw
+}
+.texto-info-general-lvarus-5{
+    position:absolute;
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    font-size:1vw;
+    right:4vw;
+    top:0vh;
 }
 .informacion-general-fixture-lvarus{
     position: absolute;
@@ -2161,77 +2195,248 @@ table tr:nth-child(even):hover{
     top:245vh;
     right:30vw;
 }
-.nombre-grupo1-aclav{
-    position:absolute;
+.nombre-pos-lvarus{
+    position: absolute;
+    top:40vh;
+    right:35vw;
+}
+.posicionamiento-posiciones-lvarus{
+    position: absolute; 
     top:55vh; 
-    right:55vw;
+    right:28vw;
+    font-size: 25vw;
 }
-.grupo1-fixture-aclav{
-    display:flex;
-    position: absolute;
-    top:50vh;
-    right:50vw;
-    width:40vw;
-    height:15vw;
-    font-size:1vw;
-}
-.nombre-grupo2-aclav{
-    top:28vw;
-    right:10vw;
-}
-.grupo2-fixture-aclav{
+.paginacion-posiciones-lvarus{
     position:absolute;
-    top:33vw;
-    right:06vw;
-    width:35vw;
-    height:15vw;
-    font-size:1vw;
+    top:115vh;
+    right:42vw;
 }
-.nombre-grupo3-aclav{
-    top:105vh;
-    right:35vw;
+.nombre-fecha1-lvarus{
+    top:30vw; 
+    right:71vw;
+    font-size:2.5vw;
 }
-.grupo3-fixture-aclav{
-    position: absolute;
-    top:120vh;
-    right:25vw;
-    height:15vw;
-    width:40vw;
-    font-size:1vw;
-}
-.nombre-cuartos-aclav{
-    top:190vh;
+.posicionamiento-fecha1-lvarus{
+    position: absolute; 
+    top:35vw; 
     right:60vw;
+    width:30vw;
 }
-.cuartos-aclav{
-    position: absolute;
-    top:200vh;
-    right:50vw;
-    height:10vw; 
+.nombre-fecha2-lvarus{
+    top:30vw; 
+    right:18vw;
+    font-size:2.5vw;
+}
+.posicionamiento-fecha2-lvarus{
+    top:35vw; 
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha3-lvarus{
+    top:55vw; 
+    right:71vw;
+    font-size:2.5vw;
+}
+.posicionamiento-fecha3-lvarus{
+    top:60vw; 
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha4-lvarus{
+    top:55vw; 
+    right:18vw;
+}
+.posicionamiento-fecha4-lvarus{
+    top:60vw; 
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha5-lvarus{
+    top:80vw;
+    right:71vw;
+}
+.posicionamiento-fecha5-lvarus{
+    top:85vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha6-lvarus{
+    top:80vw; 
+    right:18vw;
+}
+.posicionamiento-fecha6-lvarus{
+    top:85vw;
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha7-lvarus{
+    top:105vw; 
+    right:71vw;
+}
+.posicionamiento-fecha7-lvarus{
+    top:110vw; 
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha8-lvarus{
+    top:105vw;
+    right:18vw;
+}
+.posicionamiento-fecha8-lvarus{
+    top:110vw; 
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha9-lvarus{
+    top:130vw;
+    right:71vw;
+}
+.posicionamiento-fecha9-lvarus{
+    top:135vw; 
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha10-lvarus{
+    top:130vw; 
+    right:18vw;
+}
+.posicionamiento-fecha10-lvarus{
+    top:135vw; 
+    right:08vw; 
+    width:30vw;
+}
+.nombre-fecha11-lvarus{
+    top:155vw;
+    right:71vw;
+}
+.posicionamiento-fecha11-lvarus{
+    top:160vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha12-lvarus{
+    top:155vw; 
+    right:18vw;
+}
+.posicionamiento-fecha12-lvarus{
+    top:160vw;
+    right:08vw; 
+    width:30vw;
+}
+.nombre-fecha13-lvarus{
+    top:180vw; 
+    right:71vw;
+}
+.posicionamiento-fecha13-lvarus{
+    top:185vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha14-lvarus{
+    top:180vw;
+    right:18vw;
+}
+.posicionamiento-fecha14-lvarus{
+    top:185vw;
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha15-lvarus{
+    top:205vw;
+    right:71vw;
+}
+.posicionamiento-fecha15-lvarus{
+    top:210vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha16-lvarus{
+    top:205vw;
+    right:18vw;
+}
+.posicionamiento-fecha16-lvarus{
+    top:210vw;
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha17-lvarus{
+    top:230vw;
+    right:71vw;
+}
+.posicionamiento-fecha17-lvarus{
+    top:235vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha18-lvarus{
+    top:230vw;
+    right:18vw;
+}
+.posicionamiento-fecha18-lvarus{
+    top:235vw;
+    right:08vw;
+    width:30vw;
+}
+.nombre-fecha19-lvarus{
+    top:255vw;
+    right:71vw;
+}
+.posicionamiento-fecha19-lvarus{
+    top:260vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha20-lvarus{
+    top:255vw;
+    right:18vw;
+}
+.posicionamiento-fecha20-lvarus{
+    top:260vw; 
+    right:08vw; 
+    width:30vw;
+}
+.nombre-fecha21-lvarus{
+    top:280vw;
+    right:71vw;
+}
+.posicionamiento-fecha21-lvarus{
+    top:285vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-fecha22-lvarus{
+    top:280vw; 
+    right:18vw;
+}
+.posicionamiento-fecha22-lvarus{
+    top:285vw; 
+    right:08vw; 
+    width:30vw;
+}
+.nombre-cuartos-lvarus{
+    top:305vw;
+    right:68vw;
+}
+.posicionamiento-cuartos-lvarus{
+    top:310vw;
+    right:60vw;
+    width:30vw;
+}
+.nombre-semi-lvarus{
+    top:305vw; 
+    right:18vw;
+}
+.posicionamiento-semi-lvarus{
+    top:310vw; 
+    right:08vw; 
+    width:30vw;
+}
+.nombre-final-lvarus{
+    top:335vw; 
+    right:45vw;
+}
+.posicionamiento-final-lvarus{
+    top:340vw; 
+    right:30vw;
     width:40vw;
-    font-size:1vw;
-}
-.nombre-semi-aclav{
-    top:190vh;
-    right:10vw;
-}
-.semi-aclav{
-    position: absolute;
-    top:200vh;
-    right:0vw;
-    height:10vw; 
-    width:40vw;
-    font-size:1vw;
-}
-.nombre-final-aclav{
-    top:245vh;
-    right:35vw;
-}
-.final-aclav{
-    position: absolute;
-    top:255vh;
-    right:10vw;
-    height:8vw; 
-    width:53vw;
-    font-size:1.2vw;
 }
