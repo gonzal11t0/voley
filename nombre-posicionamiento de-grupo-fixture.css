@@ -49,6 +49,94 @@
     height:5vw;
     right:50vw;
 }
+.paginacion-torneo-camp-mun-fivb-f-playoff{
+    position:absolute;
+    top:26vw;
+    width:85vw;
+    height:5vw;
+    right:00vw;
+}
+.paginacion-fases-camp-mund-fivb-f-playoff{
+    position:absolute;
+    top:58vw;
+    width:20vw;
+    height:2vw;
+    right:41vw;
+}
+.paginacion-camp-mund-fivb-playoff-myf{
+    position:absolute;
+    top:64vw;
+    width:5vw;
+    height:5vw;
+    right:56vw;
+}
+.paginacion-torneo-liga-camp-europa{
+    position:absolute;
+    top:26.5vw;
+    width:90vw;
+    right:00vw;
+}
+.paginacion-fases-liga-campp-europa{
+    position:absolute;
+    top:95vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-torneo-liga-camp-europa-a-m{
+    position:absolute;
+    top:26vw;
+    width:90vw;
+    right:0vw;
+}
+.paginacion-fases-liga-camp-europa-a-m{
+    position:absolute;
+    top:31vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-grupos-liga-camp-europa-a-m{
+    position:absolute;
+    top:38vw;
+    width:35vw;
+    height:5vw;
+    right:30vw;
+}
+.paginacion-fases-liga-camp-europa-b-m{
+    position:absolute;
+    top:35vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-grupos-liga-camp-europa-b-m{
+    position:absolute;
+    top:40vw;
+    width:35vw;
+    height:5vw;
+    right:30vw;
+}
+.paginacion-grupos-liga-camp-europa-c-m{
+    position:absolute;
+    top:27vw;
+    width:90vw;
+    right:0vw;
+}
+.paginacion-fases-liga-camp-europa-c-m{
+    position:absolute;
+    top:33vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-grupos-liga-camp-europa-c-m{
+    position:absolute;
+    top:39vw;
+    width:35vw;
+    height:5vw;
+    right:30vw;
+}
 
 
 
@@ -520,11 +608,8 @@
     right:22vw;
 }
 .posicionamiento-grupo-b-campfivb-f{
-    position:absolute;
     top:35vw;
     right:05vw;
-    width:40vw;
-    height:16vw;
 }
 .nombre-fecha1-b-campfivb-f{
     top:55vw; 
@@ -552,4 +637,103 @@
     top:90vw; 
     right:10vw;
     width:25vw;
+}
+.nombre-semi-campfivb-f-playoff{
+    top:30vw; 
+    right:75vw;
+}
+.posicionamiento-semi-campfivb-f-playoff{
+    top:35vw; 
+    right:65vw;
+    width:30vw;
+}
+.nombre-tercer-campfivb-f-playoff{
+    top:30vw; 
+    right:18vw;
+}
+.posicionamiento-tercer-campfivb-f-playoff{
+    top:35vw; 
+    right:10vw;
+    width:30vw;
+}
+.nombre-final-campfivb-f-playoff{
+    top:45vw;
+    right:50vw;
+}
+.posicionamiento-final-campfivb-f-playoff{
+    top:50vw; 
+    right:38vw;
+    width:30vw;
+}
+.nombre-grupo-a-liga-camp-europa{
+    top:30vw; 
+    right:70vw;
+}
+.posicionamiento-grupo-a-liga-camp-europa{
+    position:absolute;
+    top:35vw; 
+    right:55vw;
+}
+.nombre-grupo-b-liga-camp-europa{
+    top:30vw;
+    right:20vw;
+}
+.posicionamiento-grupo-b-liga-camp-europa{
+    position: absolute;
+    top:35vw;
+    right:05vw;
+}
+.nombre-grupo-c-liga-camp-europa{
+    top:50vw; 
+    right:70vw;
+}
+.posicionamiento-grupo-c-liga-camp-europa{
+    position: absolute; 
+    top:55vw; 
+    right:55vw;
+}
+.nombre-grupo-d-liga-camp-europa{
+    top:50vw; 
+    right:20vw;
+}
+.posicionamiento-grupo-d-liga-camp-europa{
+    position: absolute; 
+    top:55vw; 
+    right:05vw;
+}
+.nombre-grupo-e-liga-camp-europa{
+    top:70vw; 
+    right:44vw;
+}
+.posicionamiento-grupo-e-liga-camp-europa{
+    position: absolute; 
+    top:75vw; 
+    right:30vw;
+}
+.nombre-calendario-a-liga-camp-europam-m{
+    top:45vw;
+    right:45vw;
+}
+.posicionamiento-calendario-a-liga-camp-europa-m{
+    top:50vw;
+    right:28vw;
+    font-size:1vw;
+}   
+.nombre-calendario-b-liga-camp-europam-m{
+    top:45vw;
+    right:45vw;
+}
+.posicionamiento-calendario-b-liga-camp-europa-m{
+    top:50vw;
+    right:28vw;
+    font-size:1vw;
+}
+.nombre-calendario-c-liga-camp-europam-m{
+    top:45vw;
+    right:45vw;
+}
+.posicionamiento-calendario-c-liga-camp-europa-m{
+    top:50vw;
+    right:28vw;
+    font-size:1vw;
 }

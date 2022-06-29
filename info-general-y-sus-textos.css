@@ -1333,6 +1333,40 @@
     right:4vw;
     top:0vh;
 }
+#texto-info-general-super-copa-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+#texto-info-general-super-copa-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:75vw;
+}
+#texto-info-general-super-copa-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:40vw;
+}
+#texto-info-general-super-copa-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+#texto-info-general-super-copa-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
 #texto-info-general-camp-mund-fivb-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
@@ -1406,6 +1440,191 @@
     right:4vw;
     top:0vw;
 }
+
+#texto-info-general-camp-mund-fivb-f-playoff-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+
+#texto-info-general-camp-mund-fivb-f-playoff-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:84vw;
+}
+#texto-info-general-camp-mund-fivb-f-playoff-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:45vw;
+}
+#texto-info-general-camp-mund-fivb-f-playoff-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+#texto-info-general-camp-mund-fivb-f-playoff-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
+#texto-info-general-liga-camp-europa-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+
+#texto-info-general-liga-camp-europa-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:84vw;
+}
+
+#texto-info-general-liga-camp-europa-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:45vw;
+}   
+
+#texto-info-general-liga-camp-europa-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+
+#texto-info-general-liga-camp-europa-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
+#texto-info-general-liga-camp-europa-a-m-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+#texto-info-general-liga-camp-europa-a-m-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:84vw;
+}
+#texto-info-general-liga-camp-europa-a-m-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:45vw;
+}
+#texto-info-general-liga-camp-europa-a-m-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+#texto-info-general-liga-camp-europa-a-m-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
+#texto-info-general-liga-camp-europa-b-m-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+
+#texto-info-general-liga-camp-europa-b-m-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:84vw;
+}
+
+#texto-info-general-liga-camp-europa-b-m-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:45vw;
+}
+
+#texto-info-general-liga-camp-europa-b-m-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+
+#texto-info-general-liga-camp-europa-b-m-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
+#texto-info-general-liga-camp-europa-c-m-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+#texto-info-general-liga-camp-europa-c-m-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:84vw;
+}
+#texto-info-general-liga-camp-europa-c-m-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:45vw;
+}
+#texto-info-general-liga-camp-europa-c-m-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+#texto-info-general-liga-camp-europa-c-m-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
+
+
+
+
+
 
 
 
