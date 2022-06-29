@@ -117,7 +117,7 @@
     height:5vw;
     right:30vw;
 }
-.paginacion-grupos-liga-camp-europa-c-m{
+.paginacion-torneo-liga-camp-europa-c-m{
     position:absolute;
     top:27vw;
     width:90vw;
@@ -137,6 +137,68 @@
     height:5vw;
     right:30vw;
 }
+.paginacion-torneo-liga-camp-europa-d-m{
+    position:absolute;
+    top:27vw;
+    width:90vw;
+    right:0vw;
+}
+.paginacion-fases-liga-camp-europa-d-m{
+    position:absolute;
+    top:35vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-grupos-liga-camp-europa-d-m{
+    position:absolute;
+    top:40vw;
+    width:35vw;
+    height:5vw;
+    right:30vw;
+}
+.paginacion-torneo-liga-camp-europa-e-m{
+    position:absolute;
+    top:27vw;
+    width:90vw;
+    right:0vw;
+}
+.paginacion-fases-liga-camp-europa-e-m{
+    position:absolute;
+    top:35vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-grupos-liga-camp-europa-e-m{
+    position:absolute;
+    top:40vw;
+    width:35vw;
+    height:5vw;
+    right:30vw;
+}
+.paginacion-torneo-liga-camp-europa-palyoff-m{
+    position:absolute;
+    top:27vw;
+    width:90vw;
+    right:0vw;
+}
+.paginacion-fases-liga-camp-europa-playoff-m{
+    position:absolute;
+    top:32vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-torneo-copa-cev{
+    position:absolute;
+    top:27vw;
+    width:90vw;
+    right:0vw;
+}
+
+
+
 
 
 
@@ -717,7 +779,6 @@
 .posicionamiento-calendario-a-liga-camp-europa-m{
     top:50vw;
     right:28vw;
-    font-size:1vw;
 }   
 .nombre-calendario-b-liga-camp-europam-m{
     top:45vw;
@@ -726,7 +787,6 @@
 .posicionamiento-calendario-b-liga-camp-europa-m{
     top:50vw;
     right:28vw;
-    font-size:1vw;
 }
 .nombre-calendario-c-liga-camp-europam-m{
     top:45vw;
@@ -735,5 +795,92 @@
 .posicionamiento-calendario-c-liga-camp-europa-m{
     top:50vw;
     right:28vw;
-    font-size:1vw;
+}
+.nombre-calendario-d-liga-camp-europam-m{
+    top:45vw;
+    right:45vw;
+}
+.posicionamiento-calendario-d-liga-camp-europa-m{
+    top:50vw;
+    right:28vw;
+}
+.nombre-calendario-e-liga-camp-europam-m{
+    top:45vw;
+    right:45vw;
+}
+.posicionamiento-calendario-e-liga-camp-europa-m{
+    top:50vw;
+    right:28vw;
+}
+.nombre-calendario-cuartos-liga-camp-europam-m{
+    top:35vw;
+    right:71vw;
+}
+.posicionamiento-calendario-cuartos-liga-camp-europa-m{
+    top:40vw;
+    right:55vw;
+}
+.nombre-calendario-semifinales-liga-camp-europam-m{
+    top:35vw;
+    right:18vw;
+}
+.posicionamiento-calendario-semifinales-liga-camp-europa-m{
+    top:40vw;
+    right:04vw;
+}
+.nombre-calendario-final-liga-camp-europam-m{
+    top:155vh;
+    right:47vw;
+}
+.posicionamiento-calendario-final-liga-camp-europa-m{
+    top:165vh;
+    right:30vw;
+}
+.nombre-calendario-16avos-copa-cev{
+    top:30vw;
+    right:71vw;
+}
+.posicionamiento-calendario-16avos-copa-cev{
+    top:35vw;
+    right:55vw;
+}
+.nombre-calendario-16avos2-copa-cev{
+    top:30vw;
+    right:18vw;
+}
+.posicionamiento-calendario-16avos2-copa-cev{
+    top:35vw;
+    right:04vw;
+}
+.nombre-calendario-octavos-copa-cev{
+    top:210vh;
+    right:71vw;
+}
+.posicionamiento-calendario-octavos-copa-cev{
+    top:220vh;
+    right:55vw;
+}
+.nombre-calendario-cuartos-copa-cev{
+    top:210vh;
+    right:15vw;
+}
+.posicionamiento-calendario-cuartos-copa-cev{
+    top:220vh;
+    right:05vw;
+}
+.nombre-calendario-semi-copa-cev{
+    top:140vw;
+    right:20vw;
+}
+.posicionamiento-calendario-semi-copa-cev{
+    top:145vw;
+    right:05vw;
+}
+.nombre-calendario-final-copa-cev{
+    top:165vw;
+    right:48vw;
+}
+.posicionamiento-calendario-final-copa-cev{
+    top:170vw;
+    right:30vw;
 }
