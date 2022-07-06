@@ -253,8 +253,16 @@
     top:26vw;
     right:30vw;
 }
-
-
+.paginacion-fases-nations-legue{
+    position:absolute;
+    top:160vh;
+    right:45vw;
+}
+.paginacion-fases-nation-league-fixture{
+    position:absolute;
+    top:490vh;
+    right:45vw;
+}
 
 
 
@@ -1361,5 +1369,86 @@
 .posicionamiento-fixture-grupo-d{
     top:95vw;
     right:05vw;
+    font-size:1vw;
+}
+.nombre-pos-nation-league{
+    position: absolute;
+    top:39vh;
+    right:37vw;
+}
+.posicionamiento-nation-league{
+    position: absolute;
+    top:50vh;
+    right:68vw;
+}
+.nombre-calendario-nation-league{
+    top:35vh;
+    right:45vw;
+}
+.posicionamiento-calendario-nation-league{
+    top:50vh;
+    right:55vw;
+    font-size:1.2vw;
+}
+.posicionamiento-calendario-2-nation-league{
+    top:50vh;
+    right:5vw;
+    font-size:1.2vw;
+}
+.posicionamiento-calendario-3-nation-league{
+    top:150vh;
+    right:55vw;
+    font-size:1.2vw;
+}
+.posicionamiento-calendario-4-nation-league{
+    top:150vh;
+    right:05vw;
+    font-size:1.2vw;
+}
+.posicionamiento-calendario-5-nation-league{
+    top:240vh;
+    right:55vw;
+    font-size:1.2vw;
+}
+.posicionamiento-calendario-6-nation-league{
+    top:245vh;
+    right:5vw;
+    font-size:1.2vw;
+}
+.posicionamiento-calendario-7-nation-league{
+    top:330vh;
+    right:55vw;
+    font-size:1.2vw;
+}
+.posicionamiento-calendario-8-nation-league{
+    top:330vh;
+    right:5vw;
+    font-size:1.2vw;
+}
+.nombre-cuartos-nation-league{
+    top:415vh;
+    right:75vw;
+}
+.posicionamiento-cuartos-nation-league{
+    top:425vh;
+    right:58vw;
+    font-size:1vw;
+}
+.nombre-semi-nation-league{
+    top:415vh;
+    right:20vw;
+}
+.posicionamiento-semi-nation-league{
+    top:425vh;
+    right:5vw;
+    font-size:1vw;
+}
+.nombre-final-nation-league{
+    top:460vh;
+    right:48vw;
+}
+.posicionamiento-final-nation-league{
+    top:470vh;
+    right:30vw;
     font-size:1vw;
 }

@@ -541,17 +541,6 @@ nav{
     right:6vw;
     top:65vw;
 }
-.pos-nation-league{
-    position: absolute;
-    top:39vh;
-    right:37vw;
-}
-.posicionamiento-nation-league{
-    position: absolute;
-    top:50vh;
-    right:68vw;
-}
-
 .icono-desplazamiento-ig-panamericanos{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
     border-radius:50px;
