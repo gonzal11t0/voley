@@ -196,11 +196,43 @@
     width:90vw;
     right:0vw;
 }
-
-
-
-
-
+.paginacion-torneo-camp-sud{
+    position:absolute;
+    top:27vw;
+    width:85vw;
+    right:0vw;
+}
+.paginacion-fases-camp-sud-m{
+    position:absolute;
+    top:33vw;
+    width:20vw;
+    height:5vw;
+    right:40vw;
+}
+.paginacion-fases-camp-sud-m-playoff{
+    position:absolute;
+    top:33vw;
+    width:20vw;
+    height:5vw;
+    right:40vw;
+}
+.paginacion-torneo-camp-sud-f{
+    position:absolute;
+    top:26.5vw;
+    width:90vw;
+    height:5vw;
+    right:00vw;
+}
+.paginacion-j-o{
+    position:absolute;
+    top:110vw;
+    right:45vw;
+}
+.paginacion-j-o-f{
+    position:absolute;
+    top:123vw;
+    right:45vw;
+}
 
 
 .nombre-pos-grupo1-aclav{
@@ -883,4 +915,231 @@
 .posicionamiento-calendario-final-copa-cev{
     top:170vw;
     right:30vw;
+}
+.nombre-grupoa-camp-sud{
+    top:35vw;
+    right:75vw;
+}
+.posicionamiento-grupoa-camp-sud{
+    position:absolute;
+    top:40vw;
+    right:60vw;
+}
+.nombre-calendario-camp-sud{
+    top:50vw;
+    right:74vw;
+}
+.posicionamiento-calendario-camp-sud{
+    position: absolute;
+    top:55vw;
+    right:58vw;
+}
+.nombre-grupob-camp-sud{
+    top:35vw;
+    right:20vw;
+}
+.posicionamiento-grupob-camp-sud{
+    position:absolute;
+    top:40vw;
+    right:05vw;
+}
+.nombre-calendario2-camp-sud{
+    top:50vw;
+    right:20vw;
+}
+.posicionamiento-calendario2-camp-sud{
+    position: absolute;
+    top:55vw;
+    right:06vw;
+    height:1vw;
+}
+.nombre-grupoc-camp-sud{
+    top:80vw;
+    right:50vw;
+}
+.posicionamiento-grupoc-camp-sud{
+    position:absolute;
+    top:85vw;
+    right:35vw;
+}
+.nombre-calendario3-camp-sud{
+    top:95vw;
+    right:49vw;
+}
+.posicionamiento-calendario3-camp-sud{
+    position: absolute;
+    top:100vw;
+    right:35vw;
+    height:1vw;    
+}
+.nombre-semi-camp-sud-playoff{
+    top:35vw;
+    right:74vw;
+}
+.posicionamiento-semi-camp-sud-playoff{
+    position:absolute;
+    top:40vw;
+    right:58vw;
+    height:1vw;
+}
+.nombre-3ro-camp-sud-playoff{
+    top:35vw;
+    right:20vw;
+}
+.posicionamiento-3ro-camp-sud-playoff{
+    position: absolute;
+    top:40vw;
+    right:06vw;
+    height:1vw;
+}
+.nombre-final-camp-sud-playoff{
+    top:60vw;
+    right:49vw;
+}
+.posicionamiento-final-camp-sud-playoff{
+    position:absolute;
+    top:65vw;
+    right:30vw;
+    height:1vw;
+}
+.nombre-grupo-unico-camp-sud-f{
+    top:31vw;
+    right:48vw;
+}
+.posicionamiento-grupo-unico-camp-sud-f{
+    position:absolute;
+    top:36vw; 
+    right:35vw;
+}
+.nombre-calendario-camp-sud-f{
+    top:60vw;
+    right:50vw;
+}
+.posicionamiento-calendario-camp-sud-f{
+    position:absolute;
+    top:65vw;
+    right:35vw;
+    height:1vw;
+}
+
+.nombre-Ronda-preliminar-j-o-M{
+    position:absolute;
+    top:40vh;
+    right:40vw
+}
+.nombre-grupo-a-j-o{
+    position:absolute;
+    top:30vw; 
+    right:75vw;
+    text-decoration:underline
+}
+.posicionamiento-grupo-a-j-o-m{
+    top:35vw; 
+    right:58vw;
+    font-size:1vw;
+}
+
+.nombre-grupo-b-j-o-M{
+    top:30vw; 
+    right:25vw;
+    text-decoration:underline
+}
+.posicionamiento-grupo-b-j-o-m{
+    top:35vw; 
+    right:10vw;
+    font-size:1vw;
+}
+.nombre-cuartos-j-o-M{
+    top:70vw; 
+    right:75vw;
+    text-decoration:underline
+}
+.posicionamiento-cuartos-j-o-m{
+    top:75vw; 
+    right:58vw;
+    font-size:1vw;
+}
+.nombre-semi-j-o-M{
+    top:70vw; 
+    right:25vw;
+    text-decoration:underline
+}
+.posicionamiento-semi-j-o-m{
+    top:75vw; 
+    right:10vw;
+    font-size:1vw;
+}
+.nombre-3y4to-j-o-M{
+    top:85vw; 
+    right:50vw;
+    text-decoration:underline
+}
+.posicionamiento-3y4to-j-o-m{
+    top:90vw; 
+    right:35vw;
+    font-size:1vw;
+}
+.nombre-final-j-o-M{
+    top:95vw; 
+    right:52vw;
+    text-decoration:underline
+}
+.posicionamiento-final-j-o-m{
+    top:100vw; 
+    right:35vw;
+    font-size:1vw;
+}
+.nombre-Ronda-preliminar-j-o-f{
+    top:40vh; 
+    right:38vw;
+}
+.nombre-Ronda-grupo-a-j-o-f{
+    top:45vh; 
+    right:75vw;
+    text-decoration:underline
+}
+.posicionamiento-grupo-a-j-o-f{
+    top:55vh; 
+    right:58vw;
+    font-size:1vw;
+}
+.nombre-Ronda-grupo-b-j-o-f{
+    top:45vh; 
+    right:25vw;
+    text-decoration:underline
+}
+.posicionamiento-grupo-b-j-o-f{
+    top:55vh; 
+    right:10vw;
+    font-size:1vw;
+}
+.nombre-Ronda-cuartos-j-o-f{
+    top:145vh; 
+    right:75vw;
+    text-decoration:underline
+}
+.posicionamiento-cuartos-j-o-f{
+    top:155vh; 
+    right:58vw;
+    font-size:1vw;
+}
+.nombre-Ronda-semi-j-o-f{
+    top:145vh; 
+    right:25vw;
+    text-decoration:underline
+}
+.posicionamiento-semi-j-o-f{
+    top:155vh; 
+    right:10vw;
+    font-size:1vw;
+}
+.nombre-Ronda-final-j-o-f{
+    top:215vh; 
+    right:52vw;
+    text-decoration:underline
+}
+.posicionamiento-final-j-o-f{
+    top:225vh;
+    right:35vw;
+    font-size:1vw;
 }
