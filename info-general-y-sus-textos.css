@@ -2210,10 +2210,74 @@
     right:4vw;
     top:0vw;
 }
-
-
-
-
+#texto-info-general-juegos-panamericananos-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+#texto-info-general-juegos-panamericananos-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:76vw;
+}
+#texto-info-general-juegos-panamericananos-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:45vw;
+}
+#texto-info-general-juegos-panamericananos-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+#texto-info-general-juegos-panamericananos-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
+#texto-info-general-juegos-panamericananos-playoff-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+#texto-info-general-juegos-panamericananos-playoff-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:76vw;
+}
+#texto-info-general-juegos-panamericananos-playoff-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:45vw;
+}
+#texto-info-general-juegos-panamericananos-playoff-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+#texto-info-general-juegos-panamericananos-playoff-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
 
 #estilos-de-grupos{
     position: absolute;

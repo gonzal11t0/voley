@@ -273,8 +273,16 @@
     top:72vw;
     right:45vw;
 }
-
-
+.paginacion-fases-juegos-panamericanos{
+    position:absolute;
+    top:102vw;
+    right:45vw;
+}
+.paginacion-fases-juegos-panamericanos-playoff{
+    position:absolute;
+    top:100vw;
+    right:45vw;
+}
 
 
 
@@ -1579,5 +1587,129 @@
     position:absolute;
     top:55vw;
     right:03vw;
+    font-size:1vw;
+}
+.nombre-grupo-a-juegos-panamericanos{
+    top:21vw; 
+    right:75vw;
+}
+.posicionamiento-grupo-a-juegos-panamericanos{
+    position: absolute; 
+    top:27vw; 
+    right:60vw;
+    font-size:1.5vw;
+}
+.posicionamiento-fixture-grupo-a-juegos-panamericanos{
+    position:absolute;
+    top:41vw;
+    right:60vw;
+    font-size:1vw;
+}
+.nombre-grupo-b-juegos-panamericanos{
+    top:21vw;
+    right:20vw;
+}
+.posicionamiento-grupo-b-juegos-panamericanos{
+    position:absolute;
+    top:27vw;
+    right:05vw;
+    font-size:1.5vw;
+}
+.posicionamiento-fixture-grupo-b-juegos-panamericanos{
+    position:absolute;
+    top:41vw;
+    right:05vw;
+    font-size:1vw;
+}
+.nombre-grupo-a-juegos-panamericanos-f{
+    top:65vw;
+    right:75vw;
+}
+.posicionamiento-grupo-a-juegos-panamericanos-f{
+    position: absolute;
+    top:70vw;
+    right:60vw;
+    font-size:1.5vw;
+}
+.posicionamiento-fixture-grupo-a-juegos-panamericanos-f{
+    position:absolute;
+    top:86vw;
+    right:60vw;
+    font-size:1vw;
+}
+.nombre-grupo-b-juegos-panamericanos-f{
+    top:65vw;
+    right:21vw;
+}
+.posicionamiento-grupo-b-juegos-panamericanos-f{
+    position:absolute;
+    top:70vw;
+    right:05vw;
+    font-size:1.5vw;
+}
+.posicionamiento-fixture-grupo-b-juegos-panamericanos-f{
+    position:absolute;
+    top:85vw;
+    right:05vw;
+    font-size:1vw;
+}
+.nombre-semi-juegos-panamericanos-playoff{
+    top:30vw;
+    right:73vw;
+}
+.posicionamiento-semi-juegos-panamericanos-playoff{
+    position:absolute;
+    top:35vw;
+    right:58vw;
+    font-size:1vw;
+}
+.nombre-3ro-juegos-panamericanos-playoff{
+    top:30vw;
+    right:15vw;
+}
+.posicionamiento-3ro-juegos-panamericanos-playoff{
+    position:absolute;
+    top:35vw;
+    right:05vw;
+    font-size:1vw;
+}
+.nombre-final-juegos-panamericanos-playoff{
+    top:45vw;
+    right:48vw;
+}
+.posicionamiento-final-juegos-panamericanos-playoff{
+    position:absolute;
+    top:50vw;
+    right:30vw;
+    font-size:1vw;
+}
+.nombre-semi-juegos-panamericanos-playoff-f{
+    top:65vw;
+    right:72vw;
+}
+.posicionamiento-semi-juegos-panamericanos-playoff-f{
+    position:absolute;
+    top:70vw;
+    right:58vw;
+    font-size:1vw;
+}
+.nombre-3ro-juegos-panamericanos-playoff-f{
+    top:65vw;
+    right:20vw;
+}
+.posicionamiento-3ro-juegos-panamericanos-playoff-f{
+    position:absolute;
+    top:70vw;
+    right:05vw;
+    font-size:1vw;
+}
+.nombre-final-juegos-panamericanos-playoff-f{
+    top:80vw;
+    right:48vw;
+}
+.posicionamiento-final-juegos-panamericanos-playoff-f{
+    position:absolute;
+    top:85vw;
+    right:30vw;
     font-size:1vw;
 }
