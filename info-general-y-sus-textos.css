@@ -2142,9 +2142,74 @@
     right:4vw;
     top:0vw;
 }
-
-
-
+#texto-info-general-copa-panamericana-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+#texto-info-general-copa-panamericana-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:76vw;
+}
+#texto-info-general-copa-panamericana-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:45vw;
+}
+#texto-info-general-copa-panamericana-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+#texto-info-general-copa-panamericana-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
+#texto-info-general-copa-panamericana-playoff-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+}
+#texto-info-general-copa-panamericana-playoff-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.7vw;
+    top:0vw;
+    right:76vw;
+}
+#texto-info-general-copa-panamericana-playoff-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:45vw;
+}
+#texto-info-general-copa-panamericana-playoff-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:-1vw;
+    right:15vw
+}
+#texto-info-general-copa-panamericana-playoff-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:4vw;
+    top:0vw;
+}
 
 
 

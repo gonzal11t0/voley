@@ -263,7 +263,16 @@
     top:490vh;
     right:45vw;
 }
-
+.paginacion-fase-copa-panamericana{
+    position:absolute;
+    top:155vw;
+    right:45vw;
+}
+.paginacion-fases-copa-panamericana-playoff{
+    position:absolute;
+    top:72vw;
+    right:45vw;
+}
 
 
 
@@ -1450,5 +1459,125 @@
 .posicionamiento-final-nation-league{
     top:470vh;
     right:30vw;
+    font-size:1vw;
+}
+.nombre-grupo-a-copa-panamericana{
+    top:22vw; 
+    right:75vw;
+}
+.posicionamiento-grupo-a-copa-panamericana{
+    position: absolute; 
+    top:27vw; 
+    right:60vw;
+    font-size:1.5vw;
+}
+.posicionamiento-fixture-grupo-a-copa-panamericana{
+    position:absolute;
+    top:42vw;
+    right:60vw;
+    font-size:1vw;
+}
+.nombre-grupo-b-copa-panamericana{
+    top:20vw; 
+    right:20vw;
+}
+.posicionamiento-grupo-b-copa-panamericana{
+    position: absolute; 
+    top:25vw; 
+    right:05vw;
+    font-size:1.5vw;
+}
+.posicionamiento-fixture-grupo-b-copa-panamericana{
+    position:absolute;
+    top:40vw;
+    right:05vw;
+    font-size:1vw;
+}
+.nombre-grupo-c-copa-panamericana{
+    top:55vw;
+    right:45vw;
+}
+.posicionamiento-grupo-c-copa-panamericana{
+    position:absolute;
+    top:60vw;
+    right:30vw;
+    font-size:1.5vw;
+}
+.posicionamiento-fixture-grupo-c-copa-panamericana{
+    position:absolute;
+    top:76vw;
+    right:30vw;
+    font-size:1vw;
+}
+.nombre-grupo-a-copa-panamericana-f{
+    top:95vw;
+    right:75vw;
+}
+.posicionamiento-grupo-a-copa-panamericana-f{
+    position:absolute;
+    top:100vw;
+    right:60vw;
+    font-size:1.5vw;
+}
+.posicionamiento-fixture-grupo-a-copa-panamericana-f{
+    position:absolute;
+    top:121vw;
+    right:60vw;
+    font-size:1vw;
+}
+.nombre-grupo-b-copa-panamericana-f{
+    top:95vw;
+    right:20vw;
+}
+.posicionamiento-grupo-b-copa-panamericana-f{
+    position:absolute;
+    top:100vw;
+    right:05vw;
+    font-size:1.5vw;
+}
+.posicionamiento-fixture-grupo-b-copa-panamericana-f{
+    position:absolute;
+    top:121vw;
+    right:03vw;
+    font-size:1vw;
+}
+.nombre-semi-copa-panamericana-playoff{
+    top:25vw;
+    right:75vw;
+}
+.posicionamiento-semi-copa-panamericana-playoff{
+    position:absolute;
+    top:30vw;
+    right:58vw;
+    font-size:1vw;
+}
+.nombre-final-copa-panamericana-playoff{
+    top:25vw;
+    right:25vw;
+}
+.posicionamiento-final-copa-panamericana-playoff{
+    position:absolute;
+    top:30vw;
+    right:04vw;
+    font-size:1vw;
+}
+.nombre-semi-copa-panamericana-playoff-f{
+    top:50vw;
+    right:75vw;
+}
+.posicionamiento-semi-copa-panamericana-playoff-f{
+    position:absolute;
+    top:55vw;
+    right:58vw;
+    font-size:1vw;
+}
+.nombre-final-copa-panamericana-playoff-f{
+    top:50vw;
+    right:20vw;
+}
+.posicionamiento-final-copa-panamericana-playoff-f{
+    position:absolute;
+    top:55vw;
+    right:03vw;
     font-size:1vw;
 }
