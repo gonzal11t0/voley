@@ -336,7 +336,7 @@
 }
 .posicionamiento-fixture-1-aclav{
     position: absolute;
-    top:33vw;
+    top:65vh;
     right:55vw;
 }
 .nombre-pos-grupo2-aclav{
@@ -350,12 +350,12 @@
 }
 .nombre-fixture-grupo2-aclav{
     position: absolute;
-    top:28vw;
+    top:55vh;
     right:18vw;
 }
 .posicionamiento-fixture-2-aclav{
     position:absolute;
-    top:33vw;
+    top:65vh;
     right:06vw;
 
 }
@@ -370,12 +370,12 @@
 }
 .nombre-fixture-grupo3-aclav{
     position: absolute;
-    top:50vw;
+    top:100vh;
     right:41vw;
 }
 .posicionamiento-fixture-grupo3-aclav{
     position: absolute;
-    top:55vw;
+    top:115vh;
     right:30vw;   
 }
 .nombre-fixture-4tos-aclav{
@@ -398,7 +398,7 @@
 }
 .nombre-fixture-final-aclav{
     top:230vh;
-    right:45vw;
+    right:44vw;
 }
 .posicionamiento-fixture-final-aclav{
     position: absolute;
