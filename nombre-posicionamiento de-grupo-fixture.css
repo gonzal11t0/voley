@@ -905,59 +905,76 @@
 }
 .nombre-calendario-a-liga-camp-europam-m{
     top:45vw;
-    right:45vw;
+    right:42vw;
 }
 .posicionamiento-calendario-a-liga-camp-europa-m{
-    top:50vw;
-    right:28vw;
+    position: absolute;
+    top:105vh;
+    right:20vw;
+    width:50vw;
+    height:35vw;
 }   
 .nombre-calendario-b-liga-camp-europam-m{
     top:45vw;
     right:45vw;
 }
 .posicionamiento-calendario-b-liga-camp-europa-m{
-    top:50vw;
-    right:28vw;
+    position: absolute;
+    top:105vh;
+    right:20vw;
+    width:55vw;
+    height:35vw;
 }
 .nombre-calendario-c-liga-camp-europam-m{
     top:45vw;
     right:45vw;
 }
 .posicionamiento-calendario-c-liga-camp-europa-m{
-    top:50vw;
-    right:28vw;
+    position: absolute;
+    top:105vh;
+    right:20vw;
+    width:55vw;
+    height:35vw;
 }
 .nombre-calendario-d-liga-camp-europam-m{
     top:45vw;
     right:45vw;
 }
 .posicionamiento-calendario-d-liga-camp-europa-m{
-    top:50vw;
-    right:28vw;
+    position: absolute;
+    top:105vh;
+    right:20vw;
+    width:55vw;
+    height:35vw;
 }
 .nombre-calendario-e-liga-camp-europam-m{
     top:45vw;
     right:45vw;
 }
 .posicionamiento-calendario-e-liga-camp-europa-m{
-    top:50vw;
-    right:28vw;
+    position: absolute;
+    top:105vh;
+    right:20vw;
+    width:55vw;
+    height:35vw;
 }
 .nombre-calendario-cuartos-liga-camp-europam-m{
-    top:35vw;
+    top:75vh;
     right:71vw;
 }
 .posicionamiento-calendario-cuartos-liga-camp-europa-m{
-    top:40vw;
+    top:85vh;
     right:55vw;
+    width:40vw;
 }
 .nombre-calendario-semifinales-liga-camp-europam-m{
-    top:35vw;
+    top:75vh;
     right:18vw;
 }
 .posicionamiento-calendario-semifinales-liga-camp-europa-m{
-    top:40vw;
+    top:85vh;
     right:04vw;
+    width:40vw;
 }
 .nombre-calendario-final-liga-camp-europam-m{
     top:155vh;
