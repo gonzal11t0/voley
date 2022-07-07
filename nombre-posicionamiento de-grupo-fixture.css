@@ -646,32 +646,32 @@
     width:40vw;
 }
 .nombre-semi-supercopa{
-    top:30vw;
+    top:60vh;
     right:68vw;
 }
 .posicionamiento-semi-supercopa{
-    top:35vw;
+    top:70vh;
     right:60vw;
     height:10vw; 
     width:30vw;
 }
 .nombre-3ro4to-supercopa{
-    top:30vw;
+    top:60vh;
     right:18vw;
 }
 .posicionamiento-3ro4to-supercopa{
-    top:35vw;
+    top:70vh;
     right:08vw;
     height:5vw;
     width:30vw;
 }
 .nombre-final-supercopa{
-    top:45vw;
-    right:45vw;
+    top:90vh;
+    right:46vw;
 }
 .posicionamiento-final-supercopa{
-    position: absolute;
-    top:50vw;
+    position:absolute;
+    top:100vh;
     right:34vw;
     height:5vw;
     width:30vw;
