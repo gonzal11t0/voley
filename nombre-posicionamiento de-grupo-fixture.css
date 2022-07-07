@@ -301,9 +301,24 @@
     right:00vw;
     width:100vw;
 }
-
-
-
+.paginacion-copa-pana-s21{
+    position:absolute;
+    top:27vw;
+    right:0vw;
+    width:100vw;
+}
+.paginacion-copa-pana-s20-f{
+    position:absolute;
+    top:27vw;
+    right:00vw;
+    width:100vw;
+}
+.paginacion-copa-pana-s18-f{
+    position:absolute;
+    top:27vw;
+    right:00vw;
+    width:100vw;
+}
 
 .nombre-pos-grupo1-aclav{
     top:72vh; 
@@ -1821,6 +1836,193 @@
 }
 .posicionamiento-final-copa-pana-s23-f{
     top:90vw; 
+    right:06vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-grupo-a-copa-pana-s21{
+    top:90vh; 
+    right:75vw;
+}
+.posicionamiento-grupo-a-copa-pana-s21{
+    position:absolute;
+    top:100vh; 
+    right:60vw;
+    font-size:1vw;
+}
+.posicionamiento-calendario-grupo-a-copa-pana-s21{
+    top:65vw; 
+    right:62vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-grupo-b-copa-pana-s21{
+    top:90vh;
+    right:21vw;
+}
+.posicionamiento-grupo-b-copa-pana-s21{
+    position:absolute;
+    top:100vh; 
+    right:05vw;
+    font-size:1vw;
+}
+.nombre-calendariogrupo-b-copa-pana-s21{
+    top:60vw; 
+    right:18vw;
+    font-size:2.5vw;
+}
+.posicionamiento-calendario-grupo-b-copa-pana-s21{
+    top:65vw; 
+    right:06vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-semi-copa-pana-s21{
+    top:89vw; 
+    right:71vw;
+    font-size:2.5vw;
+}
+.posicionamiento-semi-copa-pana-s21{
+    top:94vw; 
+    right:61vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-final-copa-pana-s21{
+    top:90vw; 
+    right:21vw;
+    font-size:2.5vw;
+}
+.posicionamiento-final-copa-pana-s21{
+    top:95vw; 
+    right:06vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-grupo-a-copa-pana-s20-f{
+    top:40vw; 
+    right:75vw;
+}
+.posicionamiento-grupo-a-copa-pana-s20-f{
+    position:absolute;
+    top:45vw; 
+    right:60vw;
+    font-size:1.5vw;
+}
+.nombre-calendario-grupo-a-copa-pana-s20-f{
+    top:65vw; 
+    right:75vw;
+    font-size:2.5vw;
+}
+.posicionamiento-calendario-grupo-a-copa-pana-s20-f{
+    top:70vw; 
+    right:62vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-grupo-b-copa-pana-s20-f{
+    top:40vw; 
+    right:21vw;
+}
+.posicionamiento-grupo-b-copa-pana-s20-f{
+    position:absolute;
+    top:45vw; 
+    right:05vw;
+    font-size:1.5vw;
+}
+.nombre-calendario-grupo-b-copa-pana-s20-f{
+    top:65vw; 
+    right:18vw;
+    font-size:2.5vw;
+}
+.posicionamiento-calendario-grupo-b-copa-pana-s20-f{
+    top:70vw; 
+    right:06vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-semi-copa-pana-s20-f{
+    top:85vw; 
+    right:71vw;
+    font-size:2.5vw;
+}
+.posicionamiento-semi-copa-pana-s20-f{
+    top:90vw; 
+    right:61vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-final-copa-pana-s20-f{
+    top:85vw; 
+    right:21vw;
+    font-size:2.5vw;
+}
+.posicionamiento-final-copa-pana-s20-f{
+    top:90vw; 
+    right:06vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-grupo-a-copa-pana-s18-f{
+    top:37vw; 
+    right:75vw;
+}
+.posicionamiento-grupo-a-copa-pana-s18-f{
+    position:absolute;
+    top:42vw; 
+    right:60vw;
+    font-size:1w;
+}
+.nombre-calendario-grupo-a-copa-pana-s18-f{
+    top:55vw; 
+    right:75vw;
+    font-size:2.5vw;
+}
+.posicionamiento-calendario-grupo-a-copa-pana-s18-f{
+    top:61vw; 
+    right:62vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-grupo-b-copa-pana-s18-f{
+    top:75vh; 
+    right:21vw;
+}
+.posicionamiento-grupo-b-copa-pana-s18-f{
+    position:absolute;
+    top:85vh; 
+    right:05vw;
+    font-size:1vw;
+}
+.nombre-calendario-grupo-b-copa-pana-s18-f{
+    top:113vh; 
+    right:18vw;
+    font-size:2.5vw;
+}
+.posicionamiento-calendario-grupo-b-copa-pana-s18-f{
+    top:125vh; 
+    right:06vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-semi-copa-pana-s18-f{
+    top:80vw; 
+    right:71vw;
+    font-size:2.5vw;
+}
+.posicionamiento-semi-copa-pana-s18-f{
+    top:85vw; 
+    right:61vw;
+    width:35vw;
+    font-size:1vw;
+}
+.nombre-final-copa-pana-s18-f{
+    top:80vw; 
+    right:21vw;
+    font-size:2.5vw;
+}
+.posicionamiento-final-copa-pana-s18-f{
+    top:85vw; 
     right:06vw;
     width:35vw;
     font-size:1vw;
