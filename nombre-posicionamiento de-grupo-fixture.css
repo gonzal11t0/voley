@@ -194,7 +194,7 @@
     position:absolute;
     top:27vw;
     width:90vw;
-    right:0vw;
+    right:-5vw;
 }
 .paginacion-torneo-camp-sud{
     position:absolute;
@@ -985,51 +985,60 @@
     right:30vw;
 }
 .nombre-calendario-16avos-copa-cev{
-    top:30vw;
+    top:62vh;
     right:71vw;
 }
 .posicionamiento-calendario-16avos-copa-cev{
-    top:35vw;
-    right:55vw;
+    top:72vh;
+    right:50vw;
+    width:45vw;
+    height:50vw;
 }
 .nombre-calendario-16avos2-copa-cev{
-    top:30vw;
+    top:62vh;
     right:18vw;
 }
 .posicionamiento-calendario-16avos2-copa-cev{
-    top:35vw;
-    right:04vw;
+    top:72vh;
+    right:1vw;
+    width:45vw;
+    height:50vw;
 }
 .nombre-calendario-octavos-copa-cev{
-    top:210vh;
+    top:190vh;
     right:71vw;
 }
 .posicionamiento-calendario-octavos-copa-cev{
-    top:220vh;
-    right:55vw;
+    top:200vh;
+    right:50vw;
+    width:45vw;
 }
 .nombre-calendario-cuartos-copa-cev{
-    top:210vh;
+    top:190vh;
     right:15vw;
 }
 .posicionamiento-calendario-cuartos-copa-cev{
-    top:220vh;
-    right:05vw;
+    top:200vh;
+    right:0vw;
+    width:45vw;
+    height:35vw;
 }
 .nombre-calendario-semi-copa-cev{
-    top:140vw;
-    right:20vw;
+    top:295vh;
+    right:45vw;
 }
 .posicionamiento-calendario-semi-copa-cev{
-    top:145vw;
-    right:05vw;
+    top:305vh;
+    right:25vw;
+    width:45vw;
+    height:15vw;
 }
 .nombre-calendario-final-copa-cev{
-    top:165vw;
-    right:48vw;
+    top:335vh;
+    right:45vw;
 }
 .posicionamiento-calendario-final-copa-cev{
-    top:170vw;
+    top:345vh;
     right:30vw;
 }
 .nombre-grupoa-camp-sud{

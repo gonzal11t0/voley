@@ -1767,30 +1767,31 @@
 #texto-info-general-copa-cev-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
+    right:89vw;
 }
 #texto-info-general-copa-cev-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
+    font-size:0.8vw;
+    top:1vh;
     right:84vw;
 }
 
 #texto-info-general-copa-cev-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 
 #texto-info-general-copa-cev-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 
@@ -1800,7 +1801,7 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-camp-sud-m-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
