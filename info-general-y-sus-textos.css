@@ -829,7 +829,7 @@
 }
 .informacion-general-naciones-fixture{
     position: absolute;
-    top:500vh;
+    top:445vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -948,7 +948,7 @@
 }
 .informacion-general-juegos-panamericana-playoff{
     position: absolute;
-    top:106vw;
+    top:205vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -2113,28 +2113,28 @@
 #texto-info-general-nations-league-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-nations-league-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:76vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-nations-league-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-nations-league-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-nations-league-5{
@@ -2142,33 +2142,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-nations-league-fixture-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-nations-league-fixture-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:76vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-nations-league-fixture-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-nations-league-fixture-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-nations-league-fixture-5{
@@ -2176,33 +2176,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-copa-panamericana-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-copa-panamericana-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:76vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-copa-panamericana-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-copa-panamericana-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-copa-panamericana-5{
@@ -2210,33 +2210,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-copa-panamericana-playoff-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-copa-panamericana-playoff-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:76vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-copa-panamericana-playoff-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-copa-panamericana-playoff-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-copa-panamericana-playoff-5{
@@ -2244,33 +2244,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-juegos-panamericananos-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-juegos-panamericananos-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:76vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-juegos-panamericananos-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-juegos-panamericananos-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-juegos-panamericananos-5{
@@ -2278,33 +2278,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-juegos-panamericananos-playoff-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-juegos-panamericananos-playoff-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:76vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-juegos-panamericananos-playoff-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-juegos-panamericananos-playoff-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-juegos-panamericananos-playoff-5{
@@ -2312,7 +2312,7 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-cat-inferiores-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;

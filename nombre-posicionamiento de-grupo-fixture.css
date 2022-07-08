@@ -260,27 +260,27 @@
 }
 .paginacion-fases-nation-league-fixture{
     position:absolute;
-    top:490vh;
+    top:430vh;
     right:45vw;
 }
 .paginacion-fase-copa-panamericana{
     position:absolute;
-    top:155vw;
+    top:320vh;
     right:45vw;
 }
 .paginacion-fases-copa-panamericana-playoff{
     position:absolute;
-    top:72vw;
-    right:45vw;
+    top:145vh;
+    right:43vw;
 }
 .paginacion-fases-juegos-panamericanos{
     position:absolute;
-    top:102vw;
+    top:210vh;
     right:45vw;
 }
 .paginacion-fases-juegos-panamericanos-playoff{
     position:absolute;
-    top:100vw;
+    top:190vh;
     right:45vw;
 }
 .paginacion-cat-inferiores{
@@ -1453,311 +1453,260 @@
 .posicionamiento-calendario-nation-league{
     top:50vh;
     right:55vw;
-    font-size:1.2vw;
+    height:30vw;
 }
 .posicionamiento-calendario-2-nation-league{
     top:50vh;
     right:5vw;
-    font-size:1.2vw;
 }
 .posicionamiento-calendario-3-nation-league{
-    top:150vh;
+    top:140vh;
     right:55vw;
-    font-size:1.2vw;
 }
 .posicionamiento-calendario-4-nation-league{
-    top:150vh;
+    top:140vh;
     right:05vw;
-    font-size:1.2vw;
+    height:25vw;
 }
 .posicionamiento-calendario-5-nation-league{
-    top:240vh;
+    top:210vh;
     right:55vw;
-    font-size:1.2vw;
 }
 .posicionamiento-calendario-6-nation-league{
-    top:245vh;
+    top:210vh;
     right:5vw;
-    font-size:1.2vw;
+    height:25vw;
 }
 .posicionamiento-calendario-7-nation-league{
-    top:330vh;
+    top:280vh;
     right:55vw;
-    font-size:1.2vw;
+    height:25vw;
 }
 .posicionamiento-calendario-8-nation-league{
-    top:330vh;
+    top:280vh;
     right:5vw;
-    font-size:1.2vw;
 }
 .nombre-cuartos-nation-league{
-    top:415vh;
-    right:75vw;
+    top:350vh;
+    right:70vw;
 }
 .posicionamiento-cuartos-nation-league{
-    top:425vh;
+    top:360vh;
     right:58vw;
-    font-size:1vw;
 }
 .nombre-semi-nation-league{
-    top:415vh;
+    top:350vh;
     right:20vw;
 }
 .posicionamiento-semi-nation-league{
-    top:425vh;
+    top:360vh;
     right:5vw;
-    font-size:1vw;
+    height:10vw;
 }
 .nombre-final-nation-league{
-    top:460vh;
+    top:390vh;
     right:48vw;
 }
 .posicionamiento-final-nation-league{
-    top:470vh;
+    top:400vh;
     right:30vw;
     font-size:1vw;
 }
 .nombre-grupo-a-copa-panamericana{
-    top:22vw; 
+    top:45vh; 
     right:75vw;
 }
 .posicionamiento-grupo-a-copa-panamericana{
-    position: absolute; 
-    top:27vw; 
+    top:55vh; 
     right:60vw;
     font-size:1.5vw;
 }
 .posicionamiento-fixture-grupo-a-copa-panamericana{
-    position:absolute;
-    top:42vw;
+    top:80vh;
     right:60vw;
     font-size:1vw;
 }
 .nombre-grupo-b-copa-panamericana{
-    top:20vw; 
+    top:45vh; 
     right:20vw;
 }
 .posicionamiento-grupo-b-copa-panamericana{
-    position: absolute; 
-    top:25vw; 
+    top:55vh; 
     right:05vw;
     font-size:1.5vw;
 }
 .posicionamiento-fixture-grupo-b-copa-panamericana{
-    position:absolute;
-    top:40vw;
+    top:80vh;
     right:05vw;
     font-size:1vw;
 }
 .nombre-grupo-c-copa-panamericana{
-    top:55vw;
+    top:115vh;
     right:45vw;
 }
 .posicionamiento-grupo-c-copa-panamericana{
-    position:absolute;
-    top:60vw;
+    top:125vh;
     right:30vw;
     font-size:1.5vw;
 }
 .posicionamiento-fixture-grupo-c-copa-panamericana{
-    position:absolute;
-    top:76vw;
+    top:150vh;
     right:30vw;
-    font-size:1vw;
 }
 .nombre-grupo-a-copa-panamericana-f{
-    top:95vw;
+    top:200vh;
     right:75vw;
 }
 .posicionamiento-grupo-a-copa-panamericana-f{
-    position:absolute;
-    top:100vw;
+    top:210vh;
     right:60vw;
-    font-size:1.5vw;
+    
 }
 .posicionamiento-fixture-grupo-a-copa-panamericana-f{
-    position:absolute;
-    top:121vw;
+    top:240vh;
     right:60vw;
-    font-size:1vw;
 }
 .nombre-grupo-b-copa-panamericana-f{
-    top:95vw;
+    top:200vh;
     right:20vw;
 }
 .posicionamiento-grupo-b-copa-panamericana-f{
-    position:absolute;
-    top:100vw;
+    top:210vh;
     right:05vw;
-    font-size:1.5vw;
 }
 .posicionamiento-fixture-grupo-b-copa-panamericana-f{
-    position:absolute;
-    top:121vw;
+    top:240vh;
     right:03vw;
-    font-size:1vw;
+    height:25vw;
 }
 .nombre-semi-copa-panamericana-playoff{
-    top:25vw;
-    right:75vw;
+    top:50vh;
+    right:70vw;
 }
 .posicionamiento-semi-copa-panamericana-playoff{
-    position:absolute;
-    top:30vw;
+    top:60vh;
     right:58vw;
-    font-size:1vw;
 }
 .nombre-final-copa-panamericana-playoff{
-    top:25vw;
+    top:50vh;
     right:25vw;
 }
 .posicionamiento-final-copa-panamericana-playoff{
-    position:absolute;
-    top:30vw;
+    top:60vh;
     right:04vw;
-    font-size:1vw;
 }
 .nombre-semi-copa-panamericana-playoff-f{
-    top:50vw;
-    right:75vw;
+    top:105vh;
+    right:70vw;
 }
 .posicionamiento-semi-copa-panamericana-playoff-f{
-    position:absolute;
-    top:55vw;
+    top:115vh;
     right:58vw;
-    font-size:1vw;
 }
 .nombre-final-copa-panamericana-playoff-f{
-    top:50vw;
+    top:105vh;
     right:20vw;
 }
 .posicionamiento-final-copa-panamericana-playoff-f{
-    position:absolute;
-    top:55vw;
+    top:115vh;
     right:03vw;
-    font-size:1vw;
 }
 .nombre-grupo-a-juegos-panamericanos{
-    top:21vw; 
+    top:45vh; 
     right:75vw;
 }
 .posicionamiento-grupo-a-juegos-panamericanos{
-    position: absolute; 
-    top:27vw; 
+    top:55vh; 
     right:60vw;
-    font-size:1.5vw;
 }
 .posicionamiento-fixture-grupo-a-juegos-panamericanos{
-    position:absolute;
-    top:41vw;
+    top:80vh;
     right:60vw;
-    font-size:1vw;
 }
 .nombre-grupo-b-juegos-panamericanos{
-    top:21vw;
+    top:45vh;
     right:20vw;
 }
 .posicionamiento-grupo-b-juegos-panamericanos{
-    position:absolute;
-    top:27vw;
+    top:55vh;
     right:05vw;
-    font-size:1.5vw;
 }
 .posicionamiento-fixture-grupo-b-juegos-panamericanos{
-    position:absolute;
-    top:41vw;
+    top:80vh;
     right:05vw;
-    font-size:1vw;
 }
 .nombre-grupo-a-juegos-panamericanos-f{
-    top:65vw;
+    top:135vh;
     right:75vw;
 }
 .posicionamiento-grupo-a-juegos-panamericanos-f{
-    position: absolute;
-    top:70vw;
+    top:145vh;
     right:60vw;
-    font-size:1.5vw;
 }
 .posicionamiento-fixture-grupo-a-juegos-panamericanos-f{
-    position:absolute;
-    top:86vw;
+    top:170vh;
     right:60vw;
-    font-size:1vw;
 }
 .nombre-grupo-b-juegos-panamericanos-f{
-    top:65vw;
+    top:135vh;
     right:21vw;
 }
 .posicionamiento-grupo-b-juegos-panamericanos-f{
-    position:absolute;
-    top:70vw;
+    top:145vh;
     right:05vw;
-    font-size:1.5vw;
 }
 .posicionamiento-fixture-grupo-b-juegos-panamericanos-f{
-    position:absolute;
-    top:85vw;
+    top:170vh;
     right:05vw;
-    font-size:1vw;
 }
 .nombre-semi-juegos-panamericanos-playoff{
-    top:30vw;
-    right:73vw;
+    top:55vh;
+    right:70vw;
 }
 .posicionamiento-semi-juegos-panamericanos-playoff{
-    position:absolute;
-    top:35vw;
+    top:65vh;
     right:58vw;
     font-size:1vw;
 }
 .nombre-3ro-juegos-panamericanos-playoff{
-    top:30vw;
+    top:55vh;
     right:15vw;
 }
 .posicionamiento-3ro-juegos-panamericanos-playoff{
-    position:absolute;
-    top:35vw;
+    top:65vh;
     right:05vw;
-    font-size:1vw;
 }
 .nombre-final-juegos-panamericanos-playoff{
-    top:45vw;
+    top:90vh;
     right:48vw;
 }
 .posicionamiento-final-juegos-panamericanos-playoff{
-    position:absolute;
-    top:50vw;
+    top:100vh;
     right:30vw;
-    font-size:1vw;
 }
 .nombre-semi-juegos-panamericanos-playoff-f{
-    top:65vw;
-    right:72vw;
+    top:135vh;
+    right:70vw;
 }
 .posicionamiento-semi-juegos-panamericanos-playoff-f{
-    position:absolute;
-    top:70vw;
+    top:145vh;
     right:58vw;
-    font-size:1vw;
 }
 .nombre-3ro-juegos-panamericanos-playoff-f{
-    top:65vw;
+    top:135vh;
     right:20vw;
 }
 .posicionamiento-3ro-juegos-panamericanos-playoff-f{
-    position:absolute;
-    top:70vw;
+    top:145vh;
     right:05vw;
-    font-size:1vw;
 }
 .nombre-final-juegos-panamericanos-playoff-f{
-    top:80vw;
-    right:48vw;
+    top:165vh;
+    right:47vw;
 }
 .posicionamiento-final-juegos-panamericanos-playoff-f{
     position:absolute;
-    top:85vw;
+    top:175vh;
     right:30vw;
     font-size:1vw;
 }
