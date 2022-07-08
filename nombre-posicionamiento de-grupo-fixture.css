@@ -1269,194 +1269,172 @@
     right:35vw;
 }
 .nombre-pos-grupo-a-camp-mund{
-    top:35vw;
+    top:72vh;
     right:65vw;
 }
 .posicionamiento-grupo-a-camp-mund{
-    top:40vw;
+    top:82vh;
     right:60vw;
-    font-size:1vw;
 }
 .nombre-pos-grupo-b-camp-mund{
-    top:35vw;
+    top:72vh;
     right:15vw;
 }
 .posicionamiento-grupo-b-camp-mund{
-    top:40vw;
+    top:82vh;
     right:10vw;
-    font-size:1vw;
 }
 .nombre-pos-grupo-c-camp-mund{
-    top:50vw;
+    top:100vh;
     right:65vw;
 }
 .posicionamiento-grupo-c-camp-mund{
-    top:55vw;
+    top:110vh;
     right:60vw;
-    font-size:1vw;
 }
 .nombre-pos-grupo-d-camp-mund{
-    top:50vw;
+    top:100vh;
     right:15vw;
 }
 .posicionamiento-grupo-d-camp-mund{
-    top:55vw;
+    top:110vh;
     right:10vw;
-    font-size:1vw;
 }
 .nombre-pos-grupo-e-camp-mund{
-    top:65vw;
+    top:132vh;
     right:65vw;
 }
 .posicionamiento-grupo-e-camp-mund{
-    top:70vw;
+    top:142vh;
     right:60vw;
     font-size:1vw;
 }
 .nombre-pos-grupo-f-camp-mund{
-    top:65vw;
+    top:132vh;
     right:15vw;
 }
 .posicionamiento-grupo-f-camp-mund{
-    top:70vw;
+    top:142vh;
     right:10vw;
-    font-size:1vw;
 }
 .nombre-pos-grupo-a-camp-mund-f{
-    top:31vw;
+    top:65vh;
     right:65vw;
 }
 .posicionamiento-grupo-a-camp-mund-f{
-    position:absolute;
-    top:36vw;
+    top:75vh;
     right:60vw;
-    font-size:1vw;
 }
 .nombre-pos-grupo-b-camp-mund-f{
-    top:31vw;
+    top:65vh;
     right:15vw;
 }
 .posicionamiento-grupo-b-camp-mund-f{
-    position:absolute;
-    top:36vw;
+    top:75vh;
     right:10vw;
     font-size:1vw;
 }
 .nombre-pos-grupo-c-camp-mund-f{
-    top:49vw;
+    top:100vh;
     right:65vw;
 }
 .posicionamiento-grupo-c-camp-mund-f{
-    position:absolute;
-    top:54vw;
+    top:110vh;
     right:60vw;
-    font-size:1vw;
 }
 .nombre-pos-grupo-d-camp-mund-f{
-    top:49vw;
+    top:100vh;
     right:15vw;
 }
 .posicionamiento-grupo-d-camp-mund-f{
-    position:absolute;
-    top:54vw;
+    top:110vh;
     right:08vw;
-    font-size:1vw;
 }
-.nombre-fixture-grupo-a{
-    top:31vw;
+.nombre-fixture-grupo-a-camp-mund-m-fixture{
+    top:70vh;
     right:70vw;
 }
-.posicionamiento-fixture-grupo-a{
-    position:absolute;
-    top:36vw;
+.posicionamiento-fixture-grupo-a-camp-mund-m-fixture{
+    top:80vh;
     right:58vw;
-    font-size:1vw;
+    height:10vw;
 }
-.nombre-fixture-grupo-b{
-    top:31vw;
+.nombre-fixture-grupo-b-camp-mund-m-fixture{
+    top:70vh;
     right:20vw;
 }
-.posicionamiento-fixture-grupo-b{
-    position:absolute;
-    top:36vw;
+.posicionamiento-fixture-grupo-b-camp-mund-m-fixture{
+    top:80vh;
     right:08vw;
-    font-size:1vw;
 }
-.nombre-fixture-grupo-c{
-    top:50vw;
+.nombre-fixture-grupo-c-camp-mund-m-fixture{
+    top:105vh;
     right:70vw;
 }
-.posicionamiento-fixture-grupo-c{
-    position:absolute;
-    top:55vw;
+.posicionamiento-fixture-grupo-c-camp-mund-m-fixture{
+    top:115vh;
     right:58vw;
-    font-size:1vw;
 }
-.nombre-fixture-grupo-d{
-    top:51vw;
+.nombre-fixture-grupo-d-camp-mund-m-fixture{
+    top:105vh;
     right:22vw;
 }
-.posicionamiento-fixture-grupo-d{
-    position:absolute;
-    top:56vw;
+.posicionamiento-fixture-grupo-d-camp-mund-m-fixture{
+    top:115vh;
     right:10vw;
-    font-size:1vw;
+    height:16vw;
 }
-.nombre-fixture-grupo-e{
-    top:75vw;
+.nombre-fixture-grupo-e-camp-mund-m-fixture{
+    top:155vh;
     right:70vw;
 }
-.posicionamiento-fixture-grupo-e{
+.posicionamiento-fixture-grupo-e-camp-mund-m-fixture{
     position:absolute;
-    top:80vw;
+    top:165vh;
     right:58vw;
-    font-size:1vw;
 }
-.nombre-fixture-grupo-f{
-    top:75vw;
+.nombre-fixture-grupo-f-camp-mund-m-fixture{
+    top:155vh;
     right:22vw;
 }
 .posicionamiento-fixture-grupo-f{
     position:absolute;
-    top:80vw;
+    top:165vh;
     right:10vw;
-    font-size:1vw;
 }
 .nombre-fixture-grupo-a-f{
-    top:30vw;
+    top:60vh;
     right:70vw;
 }
-.posicionamiento-fixture-grupo-a{
-    top:35vw;
+.posicionamiento-fixture-grupo-a-f{
+    top:70vh;
     right:58vw;
-    font-size:1vw;
+    height:33vw;
 }
 .nombre-fixture-grupo-b-f{
-    top:30vw;
+    top:60vh;
     right:17vw;
 }
-.posicionamiento-fixture-grupo-b{
-    top:35vw;
+.posicionamiento-fixture-grupo-b-f{
+    top:70vh;
     right:05vw;
-    font-size:1vw;
 }
 .nombre-fixture-grupo-c-f{
-    top:90vw;
+    top:150vh;
     right:70vw;
 }
-.posicionamiento-fixture-grupo-c{
-    top:95vw;
+.posicionamiento-fixture-grupo-c-f{
+    top:160vh;
     right:58vw;
-    font-size:1vw;
 }
 .nombre-fixture-grupo-d-f{
-    top:90vw;
+    top:150vh;
     right:17vw;
 }
-.posicionamiento-fixture-grupo-d{
-    top:95vw;
+.posicionamiento-fixture-grupo-d-f{
+    top:160vh;
     right:05vw;
-    font-size:1vw;
+    height:34vw;
 }
 .nombre-pos-nation-league{
     position: absolute;

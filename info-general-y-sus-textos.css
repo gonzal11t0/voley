@@ -769,7 +769,7 @@
 }
 .informacion-general-campeonato-mundial-fixture-femenino{
     position: absolute;
-    top:140vw;
+    top:255vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -1977,28 +1977,28 @@
 #texto-info-general-camp-mund-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-camp-mund-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:75vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-camp-mund-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-camp-mund-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-camp-mund-5{
@@ -2006,33 +2006,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-camp-mund-f-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-camp-mund-f-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:75vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-camp-mund-f-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-camp-mund-f-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-camp-mund-f-5{
@@ -2040,33 +2040,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-camp-mund-fixture-m-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-camp-mund-fixture-m-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:75vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-camp-mund-fixture-m-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-camp-mund-fixture-m-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-camp-mund-fixture-m-5{
@@ -2074,33 +2074,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-camp-mund-fixture-f-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-camp-mund-fixture-f-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:76vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }   
 #texto-info-general-camp-mund-fixture-f-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-camp-mund-fixture-f-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-camp-mund-fixture-f-5{
@@ -2108,7 +2108,7 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-nations-league-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
