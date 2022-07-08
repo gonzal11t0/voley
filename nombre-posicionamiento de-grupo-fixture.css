@@ -1042,107 +1042,110 @@
     right:30vw;
 }
 .nombre-grupoa-camp-sud{
-    top:35vw;
+    top:72vh;
     right:75vw;
 }
 .posicionamiento-grupoa-camp-sud{
     position:absolute;
-    top:40vw;
+    top:82vh;
     right:60vw;
+    height: 10vw;
 }
 .nombre-calendario-camp-sud{
-    top:50vw;
+    top:105vh;
     right:74vw;
 }
 .posicionamiento-calendario-camp-sud{
     position: absolute;
-    top:55vw;
-    right:58vw;
+    top:115vh;
+    right:60vw;
+    height:20vw;
 }
 .nombre-grupob-camp-sud{
-    top:35vw;
+    top:72vh;
     right:20vw;
 }
 .posicionamiento-grupob-camp-sud{
     position:absolute;
-    top:40vw;
+    top:82vh;
     right:05vw;
 }
 .nombre-calendario2-camp-sud{
-    top:50vw;
+    top:105vh;
     right:20vw;
 }
 .posicionamiento-calendario2-camp-sud{
     position: absolute;
-    top:55vw;
+    top:115vh;
     right:06vw;
-    height:1vw;
+    height:20vw;
 }
 .nombre-grupoc-camp-sud{
-    top:80vw;
+    top:165vh;
     right:50vw;
 }
 .posicionamiento-grupoc-camp-sud{
     position:absolute;
-    top:85vw;
+    top:175vh;
     right:35vw;
+    height:10vw;
 }
 .nombre-calendario3-camp-sud{
-    top:95vw;
+    top:200vh;
     right:49vw;
 }
 .posicionamiento-calendario3-camp-sud{
     position: absolute;
-    top:100vw;
+    top:210vh;
     right:35vw;
-    height:1vw;    
+    height:10vw;    
 }
 .nombre-semi-camp-sud-playoff{
-    top:35vw;
+    top:72vh;
     right:74vw;
 }
 .posicionamiento-semi-camp-sud-playoff{
     position:absolute;
-    top:40vw;
+    top:82vh;
     right:58vw;
-    height:1vw;
+    height:15vw;
 }
 .nombre-3ro-camp-sud-playoff{
-    top:35vw;
+    top:72vh;
     right:20vw;
 }
 .posicionamiento-3ro-camp-sud-playoff{
     position: absolute;
-    top:40vw;
+    top:82vh;
     right:06vw;
-    height:1vw;
+    height:10vw;
 }
 .nombre-final-camp-sud-playoff{
-    top:60vw;
+    top:120vh;
     right:49vw;
 }
 .posicionamiento-final-camp-sud-playoff{
     position:absolute;
-    top:65vw;
-    right:30vw;
-    height:1vw;
+    top:130vh;
+    right:32vw;
+    height:10vw;
 }
 .nombre-grupo-unico-camp-sud-f{
-    top:31vw;
+    top:70vh;
     right:48vw;
 }
 .posicionamiento-grupo-unico-camp-sud-f{
     position:absolute;
-    top:36vw; 
+    top:80vh; 
     right:35vw;
 }
 .nombre-calendario-camp-sud-f{
-    top:60vw;
+    top:125vh;
     right:50vw;
 }
 .posicionamiento-calendario-camp-sud-f{
     position:absolute;
-    top:65vw;
+    top:135vh;
     right:35vw;
     height:1vw;
 }

@@ -531,7 +531,7 @@
 }
 .informacion-general-camp-sud-m{
     position: absolute;
-    top:128vw;
+    top:245vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -590,7 +590,7 @@
 }
 .informacion-general-camp-sud-f{
     position: absolute;
-    top:290vh;
+    top:245vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -1806,62 +1806,63 @@
 #texto-info-general-camp-sud-m-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
+    right:90vw;
 }
 #texto-info-general-camp-sud-m-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
+    font-size:0.8vw;
+    top:0vh;
     right:84vw;
 }
 #texto-info-general-camp-sud-m-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
-    right:45vw;
+    font-size:1vw;
+    top:-2vh;
+    right:46vw;
 }
 #texto-info-general-camp-sud-m-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
-    right:15vw"
+    font-size:1vw;
+    top:-2vh;
+    right:15vw
 }
 #texto-info-general-camp-sud-m-5{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-camp-sud-m-playoff-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-camp-sud-m-playoff-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
+    font-size:0.8vw;
+    top:0vh;
     right:84vw;
 }
 #texto-info-general-camp-sud-m-playoff-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-camp-sud-m-playoff-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-camp-sud-m-playoff-5{
@@ -1869,33 +1870,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-camp-sud-m-f-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-camp-sud-m-f-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
+    font-size:0.8vw;
+    top:0vh;
     right:84vw;
 }
 #texto-info-general-camp-sud-m-f-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-camp-sud-m-f-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-camp-sud-m-f-5{
@@ -1903,7 +1904,7 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-j-o-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
