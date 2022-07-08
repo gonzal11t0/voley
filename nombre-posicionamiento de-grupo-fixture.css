@@ -225,7 +225,7 @@
 }
 .paginacion-j-o{
     position:absolute;
-    top:110vw;
+    top:225vh;
     right:45vw;
 }
 .paginacion-j-o-f{
@@ -1157,65 +1157,65 @@
 }
 .nombre-grupo-a-j-o{
     position:absolute;
-    top:30vw; 
+    top:62vh; 
     right:75vw;
     text-decoration:underline
 }
 .posicionamiento-grupo-a-j-o-m{
-    top:35vw; 
+    top:72vh; 
     right:58vw;
     font-size:1vw;
 }
 
 .nombre-grupo-b-j-o-M{
-    top:30vw; 
+    top:62vh; 
     right:25vw;
     text-decoration:underline
 }
 .posicionamiento-grupo-b-j-o-m{
-    top:35vw; 
+    top:72vh; 
     right:10vw;
     font-size:1vw;
 }
 .nombre-cuartos-j-o-M{
-    top:70vw; 
-    right:75vw;
+    top:140vh; 
+    right:70vw;
     text-decoration:underline
 }
 .posicionamiento-cuartos-j-o-m{
-    top:75vw; 
+    top:150vh; 
     right:58vw;
-    font-size:1vw;
+    height:10vw;
 }
 .nombre-semi-j-o-M{
-    top:70vw; 
+    top:140vh; 
     right:25vw;
     text-decoration:underline
 }
 .posicionamiento-semi-j-o-m{
-    top:75vw; 
+    top:150vh; 
     right:10vw;
-    font-size:1vw;
+    height:10vw;
 }
 .nombre-3y4to-j-o-M{
-    top:85vw; 
+    top:175vh; 
     right:50vw;
     text-decoration:underline
 }
 .posicionamiento-3y4to-j-o-m{
-    top:90vw; 
+    top:185vh; 
     right:35vw;
-    font-size:1vw;
+    height:5vw;
 }
 .nombre-final-j-o-M{
-    top:95vw; 
+    top:195vh; 
     right:52vw;
     text-decoration:underline
 }
 .posicionamiento-final-j-o-m{
-    top:100vw; 
+    top:205vh; 
     right:35vw;
-    font-size:1vw;
+    height:5vw;
 }
 .nombre-Ronda-preliminar-j-o-f{
     top:40vh; 
@@ -1229,7 +1229,6 @@
 .posicionamiento-grupo-a-j-o-f{
     top:55vh; 
     right:58vw;
-    font-size:1vw;
 }
 .nombre-Ronda-grupo-b-j-o-f{
     top:45vh; 
@@ -1239,7 +1238,7 @@
 .posicionamiento-grupo-b-j-o-f{
     top:55vh; 
     right:10vw;
-    font-size:1vw;
+    height:32vw;
 }
 .nombre-Ronda-cuartos-j-o-f{
     top:145vh; 
@@ -1249,7 +1248,6 @@
 .posicionamiento-cuartos-j-o-f{
     top:155vh; 
     right:58vw;
-    font-size:1vw;
 }
 .nombre-Ronda-semi-j-o-f{
     top:145vh; 
@@ -1259,7 +1257,7 @@
 .posicionamiento-semi-j-o-f{
     top:155vh; 
     right:10vw;
-    font-size:1vw;
+    height:12vw;
 }
 .nombre-Ronda-final-j-o-f{
     top:215vh; 
@@ -1269,7 +1267,6 @@
 .posicionamiento-final-j-o-f{
     top:225vh;
     right:35vw;
-    font-size:1vw;
 }
 .nombre-pos-grupo-a-camp-mund{
     top:35vw;
