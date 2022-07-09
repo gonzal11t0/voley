@@ -291,13 +291,13 @@
 }
 .paginacion-torneo-copa-pana-s23-m{
     position:absolute;
-    top:26vw;
+    top:45vh;
     right:00vw;
     width:100vw;
 }
 .paginacion-copa-pana-s23-f{
     position:absolute;
-    top:27vw;
+    top:45vh;
     right:00vw;
     width:100vw;
 }
@@ -1711,98 +1711,87 @@
     font-size:1vw;
 }
 .nombre-grupo-unico-copa-pana-s23{
-    top:30vw; 
-    right:49vw;
+    top:65vh; 
+    right:48vw;
 }
 .posicionamiento-grupo-unico-copa-pana-s23{
-    position:absolute;
-    top:35vw; 
+    top:75vh; 
     right:35vw;
-    font-size:1vw;
     width:35vw;
 }
 .nombre-calendario-copa-pana-s23{
-    top:50vw; 
+    top:115vh; 
     right:45vw;
-    font-size:2.5vw;
 }
 .posicionamiento-calendario-copa-pana-s23{
-    top:55vw; 
+    top:125vh; 
     right:35vw;
     width:35vw;
-    font-size:1vw;
+    height:20vw;
 }
 .nombre-final-copa-pana-s23{
-    top:80vw; 
+    top:165vh; 
     right:48vw;
-    font-size:2.5vw;
 }
 .posicionamiento-final-copa-pana-s23{
-    top:85vw; 
+    top:175vh; 
     right:35vw;
     width:35vw;
-    font-size:1vw;
 }
 .nombre-grupo-a-copa-pana-s23-f{
-    top:35vw; 
+    top:55vh; 
     right:75vw;
 }
 .posicionamiento-grupo-a-copa-pana-s23-f{
-    position:absolute;
-    top:40vw; 
+    top:65vh; 
     right:60vw;
-    font-size:1.5vw;
 }
 .nombre-calendario-copa-pana-s23-f{
-    top:55vw; 
+    top:90vh; 
     right:75vw;
-    font-size:2.5vw;
 }
-.posicionamiento-grupo-a-copa-pana-s23-f{
-    top:60vw; 
+.posicionamiento-calendario-grupo-a-copa-pana-s23-f{
+    top:100vh; 
     right:62vw;
     width:35vw;
-    font-size:1vw;
+    height:20vw;
 }
 .nombre-grupo-b-copa-pana-s23-f{
-    top:35vw; 
+    top:55vh; 
     right:21vw;
 }
 .posicionamiento-grupo-b-copa-pana-s23-f{
-    position:absolute;
-    top:40vw; 
+    top:65vh; 
     right:05vw;
-    font-size:1.5vw;
 }
 .nombre-calendario2-copa-pana-s23-f{
-    top:55vw; 
+    top:90vh; 
     right:18vw;
-    font-size:2.5vw;
 }
 .posicionamiento-calendario2-copa-pana-s23-f{
-    top:60vw; 
+    top:100vh; 
     right:06vw;
     width:35vw;
-    font-size:1vw;
+    height:20vw;
 }
 .nombre-semi-copa-pana-s23-f{
-    top:85vw; 
+    top:150vh; 
     right:71vw;
     font-size:2.5vw;
 }
 .posicionamiento-semi-copa-pana-s23-f{
-    top:90vw; 
+    top:160vh; 
     right:61vw;
     width:35vw;
     font-size:1vw;
 }
 .nombre-final-copa-pana-s23-f{
-    top:85vw; 
+    top:150vh; 
     right:21vw;
     font-size:2.5vw;
 }
 .posicionamiento-final-copa-pana-s23-f{
-    top:90vw; 
+    top:160vh; 
     right:06vw;
     width:35vw;
     font-size:1vw;
@@ -1815,13 +1804,12 @@
     position:absolute;
     top:100vh; 
     right:60vw;
-    font-size:1vw;
 }
 .posicionamiento-calendario-grupo-a-copa-pana-s21{
-    top:65vw; 
+    top:135vh; 
     right:62vw;
     width:35vw;
-    font-size:1vw;
+    height:20vw;
 }
 .nombre-grupo-b-copa-pana-s21{
     top:90vh;
@@ -1831,40 +1819,34 @@
     position:absolute;
     top:100vh; 
     right:05vw;
-    font-size:1vw;
 }
 .nombre-calendariogrupo-b-copa-pana-s21{
-    top:60vw; 
+    top:125vh; 
     right:18vw;
-    font-size:2.5vw;
 }
 .posicionamiento-calendario-grupo-b-copa-pana-s21{
-    top:65vw; 
+    top:135vh; 
     right:06vw;
     width:35vw;
-    font-size:1vw;
+    height:20vw;
 }
 .nombre-semi-copa-pana-s21{
-    top:89vw; 
+    top:190vh; 
     right:71vw;
-    font-size:2.5vw;
 }
 .posicionamiento-semi-copa-pana-s21{
-    top:94vw; 
+    top:200vh; 
     right:61vw;
     width:35vw;
-    font-size:1vw;
 }
 .nombre-final-copa-pana-s21{
-    top:90vw; 
+    top:190vh; 
     right:21vw;
-    font-size:2.5vw;
 }
 .posicionamiento-final-copa-pana-s21{
-    top:95vw; 
+    top:200vh; 
     right:06vw;
     width:35vw;
-    font-size:1vw;
 }
 .nombre-grupo-a-copa-pana-s20-f{
     top:40vw; 
@@ -1993,4 +1975,16 @@
     right:06vw;
     width:35vw;
     font-size:1vw;
+}
+.posicionamiento-tabla-contacto-clubes-masculinos{
+    background-color:rgb(183, 110, 2);  
+    width:85vw;
+    height:5vw;
+    border-radius:1vw
+}
+.posicionamiento-tabla-contacto-clubes-femeninos{
+    background-color:rgb(183, 110, 2);
+    width:85vw;
+    height:5vw;
+    border-radius:1vw
 }

@@ -119,7 +119,7 @@
 }
 .informacion-general-fixture-lvarus{
     position: absolute;
-    top:366vw;
+    top:750vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -149,7 +149,7 @@
 }
 .informacion-general-supercopa{
     position: absolute;
-    top:62vw;
+    top:130vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -209,7 +209,7 @@
 }
 .informacion-general-Camp-Mundial-de-la-FIVB{
     position: absolute;
-    top:93vw;
+    top:185vh;
     color: #007700;
     height:4vw;
     width:100vw;
@@ -239,7 +239,7 @@
 }
 .informacion-general-Camp-Mundial-de-la-FIVB-f{
     position: absolute;
-    top:108vw;
+    top:221vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -268,7 +268,7 @@
 }
 .informacion-general-Camp-Mundial-de-la-FIVB-f-play-off{
     position: absolute;
-    top:70vw;
+    top:145vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -297,7 +297,7 @@
 }
 .informacion-general-liga-camp{
     position: absolute;
-    top:105vw;
+    top:210vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -502,7 +502,7 @@
 }
 .informacion-general-copa-cev{
     position: absolute;
-    top:183vw;
+    top:370vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -560,7 +560,7 @@
 }
 .informacion-general-camp-sud-m-play-off-m{
     position: absolute;
-    top:80vw;
+    top:155vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -619,7 +619,7 @@
 }
 .informacion-general-juegos-olimpicos{
     position: absolute;
-    top:116vw;
+    top:240vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -649,7 +649,7 @@
 }
 .informacion-general-juegos-olimpicos-femenino{
     position: absolute;
-    top:129vw;
+    top:265vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -679,7 +679,7 @@
 }
 .informacion-general-campeonato-mundial{
     position: absolute;
-    top:87vw;
+    top:175vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -709,7 +709,7 @@
 }
 .informacion-general-campeonato-mundial-femenino{
     position: absolute;
-    top:71vw;
+    top:145vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -739,7 +739,7 @@
 }
 .informacion-general-campeonato-mundial-fixture-masculino{
     position: absolute;
-    top:105vw;
+    top:215vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -859,7 +859,7 @@
 }
 .informacion-general-copa-panamericana{
     position: absolute;
-    top:162vw;
+    top:335vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -888,7 +888,7 @@
 }
 .informacion-general-copa-panamericana-playoff{
     position: absolute;
-    top:78vw;
+    top:160vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -918,7 +918,7 @@
 }
 .informacion-general-juegos-panamericana{
     position: absolute;
-    top:108vw;
+    top:225vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -978,7 +978,7 @@
 }
 .informacion-general-cat-inf{
     position: absolute;
-    top:55vw;
+    top:100vh;
     height:4vw;
     width:100vw;
     right:00vw;
@@ -1008,7 +1008,7 @@
 }
 .informacion-general-copa-pana-sub23-m{
     position: absolute;
-    top:95vw;
+    top:190vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -1039,7 +1039,7 @@
 }
 .informacion-general-copa-pana-sub23-f{
     position: absolute;
-    top:102vw;
+    top:220vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -1069,7 +1069,7 @@
 }
 .informacion-general-copa-pana-sub20-m{
     position: absolute;
-    top:102vw;
+    top:215vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -1099,7 +1099,7 @@
 }
 .informacion-general-copa-pana-sub18-F{
     position: absolute;
-    top:96vw;
+    top:195vh;
     height:4vw;
     width:90vw;
     right:5vw;
@@ -1130,7 +1130,7 @@
 }
 .informacion-general-quienes-somos{
     position: absolute;
-    top:45vw;
+    top:95vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -1160,7 +1160,7 @@
 }
 .informacion-general-contacto-clubes{
     position: absolute;
-    top:69vw;
+    top:145vh;
     height:4vw;
     width:100vw;
     right:0vw;
@@ -1268,34 +1268,34 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:1vw;
-    top:-2vw;
+    top:-2vh;
 }
 #texto-info-general-fixture-aclav-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:0vw;
+    top:0vh;
     right: 75vw;
 }
 #texto-info-general-fixture-aclav-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:1vw;
-    top:-2vw;
+    top:-2vh;
     right:40vw;
 }
 #texto-info-general-fixture-aclav-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:1vw;
-    top:-2vw;
+    top:-2vh;
     right:10vw;
 }
 #texto-info-general-fixture-aclav-5{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:0vw;
+    top:0vh;
     right:2vw;
 }
 
@@ -1337,27 +1337,27 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 #texto-info-general-super-copa-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:75vw;
 }
 #texto-info-general-super-copa-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:40vw;
 }
 #texto-info-general-super-copa-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-super-copa-5{
@@ -1365,7 +1365,7 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-torneo-int-clubes-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
@@ -1405,13 +1405,13 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 #texto-info-general-camp-mund-fivb-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:80vw;
 }
 
@@ -1419,7 +1419,7 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:40vw;
 }
 
@@ -1427,7 +1427,7 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 
@@ -1436,33 +1436,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-camp-mund-fivb-f-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 #texto-info-general-camp-mund-fivb-f-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:84vw;
 }
 #texto-info-general-camp-mund-fivb-f-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-camp-mund-fivb-f-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 
@@ -1472,35 +1472,35 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 
 #texto-info-general-camp-mund-fivb-f-playoff-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 
 #texto-info-general-camp-mund-fivb-f-playoff-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:84vw;
 }
 #texto-info-general-camp-mund-fivb-f-playoff-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-camp-mund-fivb-f-playoff-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-camp-mund-fivb-f-playoff-5{
@@ -1508,20 +1508,20 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-liga-camp-europa-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 
 #texto-info-general-liga-camp-europa-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:84vw;
 }
 
@@ -1529,7 +1529,7 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:45vw;
 }   
 
@@ -1537,7 +1537,7 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 
@@ -1546,33 +1546,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-liga-camp-europa-a-m-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 #texto-info-general-liga-camp-europa-a-m-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:84vw;
 }
 #texto-info-general-liga-camp-europa-a-m-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-liga-camp-europa-a-m-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-liga-camp-europa-a-m-5{
@@ -1580,20 +1580,20 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-liga-camp-europa-b-m-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 
 #texto-info-general-liga-camp-europa-b-m-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:84vw;
 }
 
@@ -1601,7 +1601,7 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:45vw;
 }
 
@@ -1609,7 +1609,7 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 
@@ -1618,33 +1618,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-liga-camp-europa-c-m-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 #texto-info-general-liga-camp-europa-c-m-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:84vw;
 }
 #texto-info-general-liga-camp-europa-c-m-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-liga-camp-europa-c-m-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-liga-camp-europa-c-m-5{
@@ -1652,20 +1652,20 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-liga-camp-europa-d-m-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 
 #texto-info-general-liga-camp-europa-d-m-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:84vw;
 }
 
@@ -1673,7 +1673,7 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:45vw;
 }
 
@@ -1681,7 +1681,7 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 
@@ -1690,20 +1690,20 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }   
 #texto-info-general-liga-camp-europa-e-m-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 
 #texto-info-general-liga-camp-europa-e-m-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:84vw;
 }
 
@@ -1711,7 +1711,7 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:45vw;
 }
 
@@ -1719,7 +1719,7 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 
@@ -1728,33 +1728,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-liga-camp-europa-playoff-m-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 #texto-info-general-liga-camp-europa-playoff-m-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:84vw;
 }
 #texto-info-general-liga-camp-europa-playoff-m-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-liga-camp-europa-playoff-m-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-liga-camp-europa-playoff-m-5{
@@ -1762,7 +1762,7 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-copa-cev-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
@@ -1944,27 +1944,27 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 #texto-info-general-j-o-f-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:75vw;
 }
 #texto-info-general-j-o-f-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-j-o-f-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-j-o-f-5{
@@ -1972,7 +1972,7 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-camp-mund-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
@@ -2318,27 +2318,27 @@
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 #texto-info-general-cat-inferiores-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:84vw;
 }
 #texto-info-general-cat-inferiores-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-cat-inferiores-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-cat-inferiores-5{
@@ -2346,33 +2346,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-copa-pana-s23-m-inferiores-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-copa-pana-s23-m-inferiores-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:76vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-copa-pana-s23-m-inferiores-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-copa-pana-s23-m-inferiores-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-copa-pana-s23-m-inferiores-5{
@@ -2380,33 +2380,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-copa-pana-s23-f-inferiores-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-copa-pana-s23-f-inferiores-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
-    right:76vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-copa-pana-s23-f-inferiores-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-copa-pana-s23-f-inferiores-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-copa-pana-s23-f-inferiores-5{
@@ -2414,32 +2414,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-copa-pana-s21-f-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-copa-pana-s21-f-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;right:76vw;
+    font-size:0.8vw;
+    top:0vh;
+    right:72vw;
 }
 #texto-info-general-copa-pana-s21-f-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-1vh;
     right:45vw;
 }
 #texto-info-general-copa-pana-s21-f-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-copa-pana-s21-f-5{
@@ -2447,33 +2448,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-copa-pana-s20-f-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 #texto-info-general-copa-pana-s20-f-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:76vw;
 }
 #texto-info-general-copa-pana-s20-f-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:40vw;
 }
 #texto-info-general-copa-pana-s20-f-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-copa-pana-s20-f-5{
@@ -2481,33 +2482,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-copa-pana-s18-f-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
 }
 #texto-info-general-copa-pana-s18-f-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.7vw;
-    top:0vw;
+    top:0vh;
     right:76vw;
 }
 #texto-info-general-copa-pana-s18-f-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:40vw;
 }
 #texto-info-general-copa-pana-s18-f-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
     font-size:0.8vw;
-    top:-1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-copa-pana-s18-f-5{
@@ -2515,33 +2516,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-quienes-somos-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-quienes-somos-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
+    font-size:0.8vw;
+    top:0vh;
     right:84vw;
 }
 #texto-info-general-quienes-somos-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-quienes-somos-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-quienes-somos-5{
@@ -2549,33 +2550,33 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 #texto-info-general-contacto-clubes-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
 }
 #texto-info-general-contacto-clubes-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vw;
+    font-size:0.8vw;
+    top:0vh;
     right:84vw;
 }
 #texto-info-general-contacto-clubes-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:45vw;
 }
 #texto-info-general-contacto-clubes-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-1vw;
+    font-size:1vw;
+    top:-2vh;
     right:15vw
 }
 #texto-info-general-contacto-clubes-5{
@@ -2583,7 +2584,7 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vw;
+    top:0vh;
 }
 
 #estilos-de-grupos{

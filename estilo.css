@@ -201,7 +201,7 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:63vw;
+    top:130vh;
 }
 .icono-desplazamiento-tw-contactos{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
@@ -209,7 +209,7 @@ nav{
     position:absolute;
     margin:25px;
     right:55vw;
-    top:63vw;
+    top:130vh;
 }
 .icono-desplazamiento-face-contactos{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -217,7 +217,7 @@ nav{
     position:absolute;
     margin:25px;
     right:30vw;
-    top:63vw;
+    top:130vh;
 }
 .icono-desplazamiento-ig-quienes-somos{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
