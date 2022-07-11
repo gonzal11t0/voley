@@ -714,7 +714,6 @@ table tr:nth-child(even):hover{
     font-weight: bold;
 }
 
-
 #texto-tabla{
     position: absolute;
     font-family:'Courier New', Courier, monospace;
@@ -723,6 +722,12 @@ table tr:nth-child(even):hover{
     border: 8px solid #01360a;
     box-shadow: 03px 03px 03px 9px rgba(2, 168, 99, 0.7);
     
+}
+#estilos-de-grupos{
+    position: absolute;
+    color: rgb(114, 97, 97);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:2vw;
 }
 .page-item{
     right:00vw;

@@ -1,0 +1,320 @@
+.paginacion-posiciones-aclav{
+    position:absolute;
+    top:165vh;
+    right:42vw;
+}
+.paginacion-fixture-aclav{
+    position:absolute;
+    top:256vh;
+    right:40vw;
+}
+.paginacion-posiciones-lvarus{
+    position:absolute;
+    top:115vh;
+    right:42vw;
+}
+.paginacion-torneos-camp-mun-fivb{
+    position:absolute;
+    top:26vw;
+    width:85vw;
+    height:5vw;
+    right:00vw;
+}
+.paginacion-camp-mun-fivb{
+    position:absolute;
+    top:85vw;
+    width:5vw;
+    height:5vw;
+    right:55vw;
+}
+.paginacion-torneo-camp-mun-fivb-f{
+    position:absolute;
+    top:26.5vw;
+    width:85vw;
+    height:5vw;
+    right:00vw;
+}
+.paginacion-fases-camp-mund-fivb-f{
+    position:absolute;
+    top:95vw;
+    width:20vw;
+    height:2vw;
+    right:35vw;
+}
+.paginacion-camp-mun-fivb-f{
+    position:absolute;
+    top:102vw;
+    width:5vw;
+    height:5vw;
+    right:50vw;
+}
+.paginacion-torneo-camp-mun-fivb-f-playoff{
+    position:absolute;
+    top:26vw;
+    width:85vw;
+    height:5vw;
+    right:00vw;
+}
+.paginacion-fases-camp-mund-fivb-f-playoff{
+    position:absolute;
+    top:58vw;
+    width:20vw;
+    height:2vw;
+    right:41vw;
+}
+.paginacion-camp-mund-fivb-playoff-myf{
+    position:absolute;
+    top:64vw;
+    width:5vw;
+    height:5vw;
+    right:56vw;
+}
+.paginacion-torneo-liga-camp-europa{
+    position:absolute;
+    top:26.5vw;
+    width:90vw;
+    right:00vw;
+}
+.paginacion-fases-liga-campp-europa{
+    position:absolute;
+    top:95vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-torneo-liga-camp-europa-a-m{
+    position:absolute;
+    top:26vw;
+    width:90vw;
+    right:0vw;
+}
+.paginacion-fases-liga-camp-europa-a-m{
+    position:absolute;
+    top:31vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-grupos-liga-camp-europa-a-m{
+    position:absolute;
+    top:38vw;
+    width:35vw;
+    height:5vw;
+    right:30vw;
+}
+.paginacion-fases-liga-camp-europa-b-m{
+    position:absolute;
+    top:35vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-grupos-liga-camp-europa-b-m{
+    position:absolute;
+    top:40vw;
+    width:35vw;
+    height:5vw;
+    right:30vw;
+}
+.paginacion-torneo-liga-camp-europa-c-m{
+    position:absolute;
+    top:27vw;
+    width:90vw;
+    right:0vw;
+}
+.paginacion-fases-liga-camp-europa-c-m{
+    position:absolute;
+    top:33vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-grupos-liga-camp-europa-c-m{
+    position:absolute;
+    top:39vw;
+    width:35vw;
+    height:5vw;
+    right:30vw;
+}
+.paginacion-torneo-liga-camp-europa-d-m{
+    position:absolute;
+    top:27vw;
+    width:90vw;
+    right:0vw;
+}
+.paginacion-fases-liga-camp-europa-d-m{
+    position:absolute;
+    top:35vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-grupos-liga-camp-europa-d-m{
+    position:absolute;
+    top:40vw;
+    width:35vw;
+    height:5vw;
+    right:30vw;
+}
+.paginacion-torneo-liga-camp-europa-e-m{
+    position:absolute;
+    top:27vw;
+    width:90vw;
+    right:0vw;
+}
+.paginacion-fases-liga-camp-europa-e-m{
+    position:absolute;
+    top:35vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-grupos-liga-camp-europa-e-m{
+    position:absolute;
+    top:40vw;
+    width:35vw;
+    height:5vw;
+    right:30vw;
+}
+.paginacion-torneo-liga-camp-europa-palyoff-m{
+    position:absolute;
+    top:27vw;
+    width:90vw;
+    right:0vw;
+}
+.paginacion-fases-liga-camp-europa-playoff-m{
+    position:absolute;
+    top:32vw;
+    width:25vw;
+    height:5vw;
+    right:35vw;
+}
+.paginacion-torneo-copa-cev{
+    position:absolute;
+    top:27vw;
+    width:90vw;
+    right:-5vw;
+}
+.paginacion-torneo-camp-sud{
+    position:absolute;
+    top:27vw;
+    width:85vw;
+    right:0vw;
+}
+.paginacion-fases-camp-sud-m{
+    position:absolute;
+    top:33vw;
+    width:20vw;
+    height:5vw;
+    right:40vw;
+}
+.paginacion-fases-camp-sud-m-playoff{
+    position:absolute;
+    top:33vw;
+    width:20vw;
+    height:5vw;
+    right:40vw;
+}
+.paginacion-torneo-camp-sud-f{
+    position:absolute;
+    top:26.5vw;
+    width:90vw;
+    height:5vw;
+    right:00vw;
+}
+.paginacion-j-o{
+    position:absolute;
+    top:225vh;
+    right:45vw;
+}
+.paginacion-j-o-f{
+    position:absolute;
+    top:123vw;
+    right:45vw;
+}
+.paginacion-grupos-camp-mundial{
+    position:absolute;
+    top:27vw;
+    right:30vw;
+}
+.paginacion-grupos-camp-mundial-f{
+    position:absolute;
+    top:27vw;
+    right:30vw;
+}
+.paginacion-torneo-camp-mund-fixture-m{
+    position:absolute;
+    top:27vw;
+    right:30vw;
+}
+.paginacion-torneo-camp-mund-fixture-f{
+    position:absolute;
+    top:26vw;
+    right:30vw;
+}
+.paginacion-fases-nations-legue{
+    position:absolute;
+    top:160vh;
+    right:45vw;
+}
+.paginacion-fases-nation-league-fixture{
+    position:absolute;
+    top:430vh;
+    right:45vw;
+}
+.paginacion-fase-copa-panamericana{
+    position:absolute;
+    top:320vh;
+    right:45vw;
+}
+.paginacion-fases-copa-panamericana-playoff{
+    position:absolute;
+    top:145vh;
+    right:43vw;
+}
+.paginacion-fases-juegos-panamericanos{
+    position:absolute;
+    top:210vh;
+    right:45vw;
+}
+.paginacion-fases-juegos-panamericanos-playoff{
+    position:absolute;
+    top:190vh;
+    right:45vw;
+}
+.paginacion-cat-inferiores{
+    position:absolute;
+    top:65vh;
+    right:00vw;
+    width:100vw;
+}
+.paginacion-torneo-copa-pana-s23-m{
+    position:absolute;
+    top:45vh;
+    right:00vw;
+    width:100vw;
+}
+.paginacion-copa-pana-s23-f{
+    position:absolute;
+    top:45vh;
+    right:00vw;
+    width:100vw;
+}
+.paginacion-copa-pana-s21{
+    position:absolute;
+    top:27vw;
+    right:0vw;
+    width:100vw;
+}
+.paginacion-copa-pana-s20-f{
+    position:absolute;
+    top:27vw;
+    right:00vw;
+    width:100vw;
+}
+.paginacion-copa-pana-s18-f{
+    position:absolute;
+    top:27vw;
+    right:00vw;
+    width:100vw;
+}
