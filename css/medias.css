@@ -1,0 +1,241 @@
+@media (max-width:400px){
+    /*index*/
+    .icono-desplazamiento-ig{
+        top:215vh;
+        right:70vw;
+    }
+    .icono-desplazamiento-tw{
+        top:215vh;
+        right:35vw;
+    }
+    .icono-desplazamiento-face{
+        top:215vh;
+        right:5vw;
+    }
+    .informacion-general{
+        top:230vh;
+        border-radius:none; 
+        -moz-border-radius:none; 
+        -webkit-border-radius:none; 
+        border: none;
+        box-shadow:none;    
+    }
+    /*posiciones aclav*/
+    .nombre-pos-grupo1-aclav{
+        top:20vh;
+        right:-20vw;
+    }
+    .posicionamiento-grupo-1-posiciones-aclav{
+        top:30vh;
+        right:10vw;
+        width:75vw;
+        height:40vw;
+    }
+    .nombre-pos-grupo2-aclav{
+        top:50vh;
+        right:-20vw;
+    }
+    .posicionamiento-grupo-2-posiciones-aclav{
+        top:60vh;
+        right:10vw;
+        width:75vw;
+        height:40vw;
+    }
+    .nombre-pos-grupo3-aclav{
+        top:80vh;
+        right:-20vw;
+    }
+    .posicionamiento-grupo-3-posiciones-aclav{
+        top:90vh;
+        right:10vw;
+        width:75vw;
+        height:40vw;
+    }
+    .icono-desplazamiento-ig-pos-aclav{
+        top:110vh;
+        right: 75vw;
+    }
+    .icono-desplazamiento-tw-pos-aclav{
+        top:110vh;
+        right:40vw;
+    }
+    .icono-desplazamiento-face-pos-aclav{
+        top:110vh;
+        right:5vw;
+    }
+    .paginacion-posiciones-aclav{
+        top:122vh;
+        right:10vw;
+    }
+    .informacion-general-aclav{
+        top:135vh;
+        width:100% ;
+        border-radius: none; 
+        -moz-border-radius: none; 
+        -webkit-border-radius: none; 
+        border: none;
+        box-shadow:none;
+    }
+    #texto-info-general-aclav-1{
+        position:absolute;
+        font-size:3vw;
+        top:-4vh;
+    }
+    #texto-info-general-aclav-2{
+        position:absolute;
+        font-size:2.5vw;
+        top:-1vh;
+    }
+    #texto-info-general-aclav-3{
+        position:absolute;
+        font-size:3vw;
+        top:-4vh;
+        right:30vw;
+    }
+    #texto-info-general-aclav-4{
+        position:absolute;
+        font-size:3vw;
+        top:-4vh;
+        right: 2vw;
+    }
+    #texto-info-general-aclav-5{
+        position:absolute;
+        font-size:2.8vw;
+        top:-1.3vh;
+        right:5vw;   
+    }
+    /*fixture aclav*/
+    nav{
+        font-size:1.7vw;
+        padding:5px 5px 1px 1px;
+        margin: 2px 2px 0px -25px;
+    }
+    .reglas-informacion{
+        font-size:3.5vw;
+    }
+    #estilos-de-grupos{
+        font-size:6vw;
+    }
+    #texto-tabla{
+        font-size: 3vw;
+        border: 1px solid #01360a;
+        box-shadow: none;
+    }
+    .nombre-fixture-grupo1-aclav{
+        top:20vh;
+        right:30vw;
+    }
+    .posicionamiento-fixture-1-aclav{
+        top:30vh;
+        right:15vw;
+        width:70vw;
+        height:40vw;
+    }
+    .nombre-fixture-grupo2-aclav{
+        top:55vh;
+        right:30vw;
+    }
+    .posicionamiento-fixture-2-aclav{
+        top:65vh;
+        right:15vw;
+        width:70vw;
+        height:40vw;
+    }
+    .nombre-fixture-grupo3-aclav{
+        top:95vh;
+        right:30vw;
+    }
+    .posicionamiento-fixture-grupo3-aclav{
+        top:105vh;
+        right:15vw;
+        width:70vw;
+        height:40vw;
+    }
+    .nombre-fixture-4tos-aclav{
+        top:140vh;
+        right:30vw;
+    }
+    .posicionamiento-fixture-4tos-aclav{
+        top:150vh;
+        right:15vw;
+        width:70vw;
+        height:40vw;
+    }
+    .nombre-fixture-semi-aclav{
+        top:180vh;
+        right:30vw;
+    }
+    .posicionamiento-fixture-semi-aclav{
+        top:190vh;
+        right:15vw;
+        width:70vw;
+        height:30vw;
+    }
+    .nombre-fixture-final-aclav{
+        top:205vh;
+        right:40vw;
+    }
+    .posicionamiento-fixture-final-aclav{
+        top:215vh;
+        right:15vw;
+        width:70vw;
+        height:30vw;
+    }
+    .paginacion-fixture-aclav{
+        top:232vh;
+        right: 15vw;
+    }
+    .icono-desplazamiento-ig-fixture-aclav{
+        top: 240vh;
+        right:60vw ;
+    }
+    .icono-desplazamiento-tw-fixture-aclav{
+        top: 240vh;
+        right:35vw;
+    }
+    .icono-desplazamiento-face-fixture-aclav{
+        top: 240vh;
+        right:10vw;
+    }
+    .informacion-general-fixture-aclav{
+        top:255vh;
+        width:100% ;
+        border-radius: none; 
+        -moz-border-radius: none; 
+        -webkit-border-radius: none; 
+        border: none;
+        box-shadow:none;
+    }
+    #texto-info-general-fixture-aclav-1{
+        position:absolute;
+        font-size:3vw;
+        top:-4vh;
+    }
+    #texto-info-general-fixture-aclav-2{
+        position:absolute;
+        font-size:2.5vw;
+        top:-1vh;
+    }
+    #texto-info-general-fixture-aclav-3{
+        position:absolute;
+        font-size:3vw;
+        top:-4vh;
+        right:30vw;
+    }
+    #texto-info-general-fixture-aclav-4{
+        position:absolute;
+        font-size:3vw;
+        top:-4vh;
+    }
+    #texto-info-general-fixture-aclav-5{
+        position:absolute;
+        font-size:2.8vw;
+        top:-1.3vh;
+        right:5vw;        
+    }
+    /*posiciones lvarus*/
+    .nombre-pos-lvarus{
+        top: 20vh;
+        position: absolute;
+    }
+}

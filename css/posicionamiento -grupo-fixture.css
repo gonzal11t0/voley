@@ -6,7 +6,7 @@
 .posicionamiento-grupo-1-posiciones-aclav{
     position: absolute;
     top:85vh;
-    right:92vw;
+    right:55vw;
 }
 .nombre-fixture-grupo1-aclav{
     position: absolute;
@@ -25,7 +25,7 @@
 .posicionamiento-grupo-2-posiciones-aclav{
     position: absolute;
     top:85vh;
-    right:40vw;
+    right:2vw;
 }
 .nombre-fixture-grupo2-aclav{
     position: absolute;
@@ -40,12 +40,12 @@
 }
 .nombre-pos-grupo3-aclav{
     top:112vh; 
-    right:38vw;
+    right:35vw;
 }
 .posicionamiento-grupo-3-posiciones-aclav{
     position:absolute; 
     top:125vh; 
-    right:70vw;
+    right:30vw;
 }
 .nombre-fixture-grupo3-aclav{
     position: absolute;
