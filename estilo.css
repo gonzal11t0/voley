@@ -153,7 +153,7 @@ nav{
     position:absolute;
     margin:25px;
     right:90vw;
-    top:100vh;
+    top:105vh;
 }
 .icono-desplazamiento-tw{
     box-shadow: 6px 2px 16px rgba(83, 132, 196, 0.7);
@@ -161,7 +161,7 @@ nav{
     position:absolute;
     margin:25px;
     right:48vw;
-    top:100vh;
+    top:105vh;
 }
 .icono-desplazamiento-face{
     box-shadow: 6px 2px 6px rgba(67, 112, 226, 0.7);
@@ -169,7 +169,7 @@ nav{
     position:absolute;
     margin:25px;
     right:15vw;
-    top:100vh;
+    top:105vh;
 }
 .icono-desplazamiento-ig-supercopa{
     box-shadow: 6px 2px 16px rgba(224, 28, 28, 0.7);
