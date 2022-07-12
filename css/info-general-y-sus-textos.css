@@ -1333,6 +1333,40 @@
     right:4vw;
     top:0vh;
 }
+#texto-info-general-fixture-lvarus-1{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:1vw;
+    top:2vh;
+}
+#texto-info-general-fixture-lvarus-2{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    top:4vh;
+    right:72vw;
+}
+#texto-info-general-fixture-lvarus-3{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:1vw;
+    top:1vh;
+    right:40vw;
+}
+#texto-info-general-fixture-lvarus-4{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:1vw;
+    top:1vh;
+    right:10vw
+}
+#texto-info-general-fixture-lvarus-5{
+    font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    position:absolute;
+    font-size:0.8vw;
+    right:2vw;
+    top:4vh;
+}
 #texto-info-general-super-copa-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
