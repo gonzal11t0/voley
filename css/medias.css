@@ -649,10 +649,12 @@
         right:4vw;
         font-size:2.5vw;
     }
+    /*torneo internacionales clubes*/
     .paginacion-torneo-torneo-int{
         position: absolute;
         top:50vh;
-        width: auto;
+        width:auto;
+        right:95vw;
     }
     .pagination-lg .page-item:first-child .page-link{
         font-size:2.2vw;
@@ -674,7 +676,7 @@
         top:0vh;
     }
     .informacion-general-torneos-int-clubes{
-        top:101vh;
+        top:106vh;
         width:100% ;
         border-radius:none; 
         -moz-border-radius:none; 
@@ -705,5 +707,88 @@
         top:-2vh;
         font-size:2.5vw;
         right:1vw;
+    }
+    /*camp mundial de la fivb*/
+    .paginacion-torneos-camp-mun-fivb{
+        top:30vh;
+        right:70vw;
+        width:25vw;
+    }
+    .nombre-grupo-campmundialfivb{
+        top:40vh;
+        right:35vw;
+    }
+    .posicionamiento-grupo-campmundialfivb{
+        top:50vh;
+        right:10vw;
+        width: 75vw;
+    }
+    .nombre-fecha1-campfivb{
+        top:65vh;
+        right:35vw;
+    }
+    .posicionamiento-fecha1-campfivb{
+        top:75vh;
+        right:10vw;
+        width: 75vw;
+    }
+    .nombre-fecha2-campfivb{
+        top:85vh;
+        right:35vw;
+    }
+    .posicionamiento-fecha2-campfivb{
+        top:95vh;
+        right:10vw;
+        width:75vw;
+    }
+    .nombre-fecha3-campfivb{
+        top:105vh;
+        right:35vw;
+    }
+    .posicionamiento-fecha3-campfivb{
+        top:115vh;
+        right:10vw;
+        width: 75vw;
+    }
+    .nombre-semi-campfivb{
+        top:125vh;
+        right:35vw;
+    }
+    .posicionamiento-semi-campfivb{
+        top:135vh;
+        right:10vw;
+        width: 75vw;
+    }
+    .nombre-tercer-campfivb{
+        top:145vh;
+        right:35vw;
+    }
+    .posicionamiento-tercer-campfivb{
+        top:155vh;
+        right:10vw;
+        width: 75vw;
+    }
+    .nombre-final-campfivb{
+        top:160vh;
+        right:40vw;
+    }
+    .posicionamiento-final-campfivb{
+        top:170vh;
+        right:10vw;
+        width: 75vw;
+    }
+    .paginacion-camp-mun-fivb{
+        top:190vh;
+        width:50vw;
+        right: 10vw;
+    }
+    .informacion-general-Camp-Mundial-de-la-FIVB{
+        top:210vh;
+        width:100% ;
+        border-radius:none; 
+        -moz-border-radius:none; 
+        -webkit-border-radius:none; 
+        border:none;
+        box-shadow:none;
     }
 }
