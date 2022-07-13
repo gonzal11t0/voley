@@ -1370,28 +1370,28 @@
 #texto-info-general-super-copa-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-2vh;
+    font-size:1vw;
+    top:0vh;
 }
 #texto-info-general-super-copa-2{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.7vw;
-    top:0vh;
+    font-size:0.8vw;
+    top:4vh;
     right:75vw;
 }
 #texto-info-general-super-copa-3{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-2vh;
+    font-size:1vw;
+    top:0vh;
     right:40vw;
 }
 #texto-info-general-super-copa-4{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     position:absolute;
-    font-size:0.8vw;
-    top:-2vh;
+    font-size:1vw;
+    top:0vh;
     right:15vw
 }
 #texto-info-general-super-copa-5{
@@ -1399,7 +1399,7 @@
     position:absolute;
     font-size:0.8vw;
     right:4vw;
-    top:0vh;
+    top:4vh;
 }
 #texto-info-general-torneo-int-clubes-1{
     font-family:Century Gothic,CenturyGothic,AppleGothic,sans-serif;

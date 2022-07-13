@@ -544,10 +544,10 @@
     .informacion-general-fixture-lvarus{
         top:850vh;
         width:100% ;
-        border-radius: none; 
-        -moz-border-radius: none; 
-        -webkit-border-radius: none; 
-        border: none;
+        border-radius:none; 
+        -moz-border-radius:none; 
+        -webkit-border-radius:none; 
+        border:none;
         box-shadow:none;
     }
     #texto-info-general-fixture-lvarus-1{
@@ -648,5 +648,62 @@
         top:3vh;
         right:4vw;
         font-size:2.5vw;
+    }
+    .paginacion-torneo-torneo-int{
+        position: absolute;
+        top:50vh;
+        width: auto;
+    }
+    .pagination-lg .page-item:first-child .page-link{
+        font-size:2.2vw;
+        width:12vw;
+        height:20vw;
+    }
+    .page-item:not(:first-child) .page-link {
+        font-size:2.6vw;
+        width:19vw;
+        height:20vw;
+        right:5vw;
+        top:0vh ;
+    }
+    .pagination-lg .page-item:last-child .page-link {
+        font-size:2.2vw;
+        width:22vw;
+        height:20vw;
+        right:5vw;
+        top:0vh;
+    }
+    .informacion-general-torneos-int-clubes{
+        top:101vh;
+        width:100% ;
+        border-radius:none; 
+        -moz-border-radius:none; 
+        -webkit-border-radius:none; 
+        border:none;
+        box-shadow:none;
+    }
+    #texto-info-general-torneo-int-clubes-1{
+        font-size:3vw;
+        top:-4vh;
+    }
+    #texto-info-general-torneo-int-clubes-2{
+        top:-1vh;
+        font-size:2.5vw;
+        right: 72vw;
+    }
+    #texto-info-general-torneo-int-clubes-3{
+        top:-4vh;
+        font-size:3vw;
+        right:30vw;
+    }
+    #texto-info-general-torneo-int-clubes-4{
+        top:-4vh;
+        font-size:3vw;
+        right:10vw;
+    }
+    #texto-info-general-torneo-int-clubes-5{
+        top:-2vh;
+        font-size:2.5vw;
+        right:1vw;
     }
 }
