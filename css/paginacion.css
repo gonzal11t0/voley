@@ -113,6 +113,11 @@
     height:5vw;
     right:30vw;
 }
+.paginacion-torneo-liga-camp-europa-b-m{
+    position:absolute;
+    top:30vh;
+    right:99vw;
+}
 .paginacion-fases-liga-camp-europa-b-m{
     position:absolute;
     top:35vw;
@@ -207,6 +212,12 @@
     right:-5vw;
 }
 .paginacion-torneo-camp-sud{
+    position:absolute;
+    top:27vw;
+    width:85vw;
+    right:0vw;
+}
+.paginacion-torneo-camp-sud-playoff{
     position:absolute;
     top:27vw;
     width:85vw;
