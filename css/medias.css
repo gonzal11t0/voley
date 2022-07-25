@@ -1807,6 +1807,118 @@
         font-size:2.5vw;
         right:1vw;
     }
-
+    /*quienes somos*/
+    .titulo-quienes-somos{
+        font-size: 5vw;
+    }
+    .titulo-quienes-somos:hover{
+        font-size:7vw;
+    }
+    .titulo-quienes-somos::first-letter{
+        font-size: 8.5vw;
+    }
+    .texto-quienes-somos{
+        font-size:7vw;
+    }
+    .texto-quienes-somos:hover{
+        top:7vw;
+    }
+    .informacion-general-quienes-somos{
+        top:95vh;
+        width:100%;
+        border-radius:none; 
+        -moz-border-radius:none; 
+        -webkit-border-radius:none; 
+        border:none;
+        box-shadow:none;
+    }
+    #texto-info-general-quienes-somos-1{
+        font-size:3vw;
+        top:-4vh;
+        right:70vw;
+    }
+    #texto-info-general-quienes-somos-2{
+        top:-1vh;
+        font-size:2.5vw;
+        right: 72vw;
+    }
+    #texto-info-general-quienes-somos-3{
+        top:-4vh;
+        font-size:3vw;
+        right:30vw;
+    }
+    #texto-info-general-quienes-somos-4{
+        top:-4vh;
+        font-size:3vw;
+        right:10vw;
+    }
+    #texto-info-general-quienes-somos-5{
+        top:-2vh;
+        font-size:2.5vw;
+        right:1vw;
+    }
+    /*contacto clubes*/
+    .titulo-tabla{
+        top:35vh;
+    }
+    .tabla-Contacto-Seleccionado-Argentino-de-Voley{
+        width:100vw;
+    }
+    .posicionamiento-tabla-contacto-clubes-masculinos{
+        width:10vw;
+        height:85vw;
+        font-size:3vw;
+    }
+    .posicionamiento-tabla-contacto-clubes-femeninos{
+        width:10vw;
+        height:85vw;
+        font-size:3vw;
+    }
+    .icono-desplazamiento-ig-contactos{
+        top:195vh;
+        right:75vw;
+    }
+    .icono-desplazamiento-tw-contactos{
+        top:195vh;
+        right:35vw;
+    }
+    .icono-desplazamiento-face-contactos{
+        top:195vh;
+        right:5vw;
+    }
+    .informacion-general-contacto-clubes{
+        top:210vh;
+        width:100%;
+        border-radius:none; 
+        -moz-border-radius:none; 
+        -webkit-border-radius:none; 
+        border:none;
+        box-shadow:none;
+    }
+    #texto-info-general-contacto-clubes-1{
+        font-size:3vw;
+        top:-4vh;
+        right:70vw;
+    }
+    #texto-info-general-contacto-clubes-2{
+        top:-1vh;
+        font-size:2.5vw;
+        right: 72vw;
+    }
+    #texto-info-general-contacto-clubes-3{
+        top:-4vh;
+        font-size:3vw;
+        right:30vw;
+    }
+    #texto-info-general-contacto-clubes-4{
+        top:-4vh;
+        font-size:3vw;
+        right:10vw;
+    }
+    #texto-info-general-contacto-clubes-5{
+        top:-2vh;
+        font-size:2.5vw;
+        right:1vw;
+    }
 }
 
