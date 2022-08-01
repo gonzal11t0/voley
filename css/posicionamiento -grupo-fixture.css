@@ -1191,6 +1191,69 @@
     right:30vw;
     font-size:1vw;
 }
+.info-masculino-copa-panamericana{
+    color: rgb(235, 10, 10);
+    right:35vw;
+}
+.info-fecha-masculino-copa-panamericana{
+    color: rgb(235, 10, 10);
+    right:75vw;
+}
+.info-femenina-copa-panamericana{
+    position: absolute;
+    color: rgb(235, 10, 10);
+    top:180vh;
+    right:30vw;
+}
+.info-fecha-femenina-copa-panamericana{
+    position:absolute;
+    color: rgb(235, 10, 10);
+    top:190vh;
+    right:30vw;
+}
+.info-masculino-play-off-copa-panamericana{
+    position: absolute;
+    color: rgb(235, 10, 10);
+    right:35vw;
+}
+.info-femenina-fixture-copa-panamericana{
+    position: absolute;
+    color: rgb(235, 10, 10);
+    top:80vh;
+    right:28vw;
+}
+.info-masculino-juegos-panamericanos{
+    position: absolute;
+    color: rgb(235, 10, 10);
+    right:35vw;
+}
+.info-fecha-masculino-juegos-panamericanos{
+    position: absolute;
+    color: rgb(235, 10, 10);
+    right:25vw;
+    top:18vh;
+}
+.info-femenino-juegos-panamericanos{
+    position: absolute;
+    top:110vh;
+    right:30vw;
+    color: rgb(235, 10, 10);
+}
+.info-fecha-femenino-juegos-panamericanos{
+    position: absolute;
+    top:120vh;
+    right:30vw;
+    color: rgb(235, 10, 10);
+}
+.info-play-off-juegos-panamericanos{
+    color: rgb(235, 10, 10);
+}
+.info-femenino-play-off-juegos-panamericanos{
+    position: absolute;
+    top:115vh;
+    right:30vw;
+    color: rgb(235, 10, 10);
+}
 .nombre-grupo-a-copa-panamericana{
     top:45vh; 
     right:75vw;
