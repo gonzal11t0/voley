@@ -3219,6 +3219,112 @@
         font-size:2.5vw;
         right:1vw;
     }
+    /*copa panamericana sub 21 masculino*/
+    .paginacion-copa-pana-s21{
+        top:30vh;
+    }
+    .nombre-grupo-a-copa-pana-s21{
+        top:40vh;
+        right:40vw;
+    }
+    .posicionamiento-grupo-a-copa-pana-s21{
+        top:50vh;
+        right:3vw;
+        width:95vw;
+        height:15vw;
+    }
+    .nombre-calendario-grupo-a-copa-pana-s21{
+        top:60vh;
+        right:40vw;
+    }
+    .posicionamiento-calendario-grupo-a-copa-pana-s21{
+        top:70vh;
+        right:3vw;
+        width:95vw;
+        height:15vw;
+    }
+    .nombre-grupo-b-copa-pana-s21{
+        top:100vh;
+        right:40vw;
+    }
+    .posicionamiento-grupo-b-copa-pana-s21{
+        top:110vh;
+        right:3vw;
+        width:95vw;
+        height:15vw;
+    }
+    .nombre-calendariogrupo-b-copa-pana-s21{
+        top:120vh;
+        right:40vw;
+    }
+    .posicionamiento-calendario-grupo-b-copa-pana-s21{
+        top:130vh;
+        right:3vw;
+        width:95vw;
+        height:55vw;
+    }
+    .nombre-semi-copa-pana-s21{
+        top:155vh;
+        right:40vw;
+    }
+    .posicionamiento-semi-copa-pana-s21{
+        top:165vh;
+        right:3vw;
+        width:95vw;
+        height:15vw;
+    }
+    .nombre-final-copa-pana-s21{
+        top:170vh;
+        right:40vw;
+    }
+    .posicionamiento-final-copa-pana-s21{
+        top:180vh;
+        right:3vw;
+        width:95vw;
+        height:15vw;
+    }
+    .informacion-general-copa-pana-sub23-f{
+        top:190vh;
+        width:100%;
+        border-radius:none; 
+        -moz-border-radius:none; 
+        -webkit-border-radius:none; 
+        border:none;
+        box-shadow:none;
+    }
+    #texto-info-general-copa-pana-s21-f-1{
+        font-size:3vw;
+        top:-4vh;
+        right:70vw;
+    }
+    #texto-info-general-copa-pana-s21-f-2{
+        top:-1vh;
+        font-size:2.5vw;
+        right: 72vw;
+    }
+    #texto-info-general-copa-pana-s21-f-3{
+        top:-4vh;
+        font-size:3vw;
+        right:30vw;
+    }
+    #texto-info-general-copa-pana-s21-f-4{
+        top:-4vh;
+        font-size:3vw;
+        right:10vw;
+    }
+    #texto-info-general-copa-pana-s21-f-5{
+        top:-2vh;
+        font-size:2.5vw;
+        right:1vw;
+    }
+
+
+
+
+
+
+
+
     /*contacto clubes*/
     .titulo-tabla{
         top:35vh;
