@@ -269,7 +269,7 @@
     }
     .posicionamiento-posiciones-lvarus{
         top:30vh;
-        right:0vw;
+        right:2vw;
         width:95vw;
         height:90vw;
     }
@@ -287,7 +287,7 @@
     }
     .paginacion-posiciones-lvarus{
         top:90vh;
-        right:10vw;
+        right:30vw;
     }
     .informacion-general-posiciones-lvarus{
         top:105vh;
@@ -567,7 +567,7 @@
     }
     .paginacion-fixture-lvarus{
         top:835vh;
-        right:18vw;
+        right:30vw;
     }
     .informacion-general-fixture-lvarus{
         top:850vh;
